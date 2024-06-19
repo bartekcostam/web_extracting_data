@@ -1,0 +1,393 @@
+ 
+ 
+Układ graficzny 
+© CKE 2021 
+ 
+WYPEŁNIA ZDAJĄCY 
+ 
+ 
+ 
+KOD 
+PESEL 
+                
+ 
+ 
+EGZAMIN MATURALNY Z INFORMATYKI  
+ 
+POZIOM ROZSZERZONY 
+CZĘŚĆ II 
+ 
+DATA: 14 czerwca 2022 r. 
+CZAS PRACY: 150 minut   
+LICZBA PUNKTÓW DO UZYSKANIA: 35 
+WYPEŁNIA ZDAJĄCY 
+WYBRANE: 
+ 
+................................................. 
+(system operacyjny) 
+ 
+................................................. 
+(program użytkowy) 
+ 
+................................................. 
+(środowisko programistyczne) 
+ 
+ 
+Instrukcja dla zdającego 
+1. Sprawdź, czy arkusz egzaminacyjny zawiera 8 stron i czy dołączony jest do niego nośnik 
+danych – podpisany DANE. Ewentualny brak zgłoś przewodniczącemu zespołu 
+nadzorującego egzamin. 
+2. Wpisz zadeklarowane (wybrane) przez Ciebie na egzamin system operacyjny, program 
+użytkowy oraz środowisko programistyczne. 
+3. Jeśli rozwiązaniem zadania lub jego części jest program komputerowy, to umieść 
+w katalogu (folderze) oznaczonym Twoim numerem PESEL wszystkie utworzone przez 
+siebie pliki w wersji źródłowej. 
+4. Pliki oddawane do oceny nazwij dokładnie tak, jak polecono w treści zadań, lub zapisz je 
+pod nazwami (wraz z rozszerzeniem zgodnym z zadeklarowanym oprogramowaniem), 
+jakie podajesz w arkuszu egzaminacyjnym. Pliki o innych nazwach nie będą 
+sprawdzane przez egzaminatora. 
+5. Przed upływem czasu przeznaczonego na egzamin zapisz w katalogu (folderze) 
+oznaczonym Twoim numerem PESEL ostateczną wersję plików stanowiących rozwiązania 
+zadań. 
+6. Na tej stronie oraz na karcie odpowiedzi wpisz swój numer PESEL i przyklej naklejkę  
+z kodem. 
+7. Nie wpisuj żadnych znaków w części przeznaczonej dla egzaminatora. 
+Miejsce na naklejkę. 
+ 
+Sprawdź, czy kod na naklejce to 
+E-100. 
+ 
+Jeżeli tak – przyklej naklejkę. 
+Jeżeli nie – zgłoś to nauczycielowi. 
+Arkusz zawiera informacje prawnie chronione 
+do momentu rozpoczęcia egzaminu. 
+ 
+EINP-R2-100-2206 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 2 z 8 
+EINP-R2_100 
+Zadanie 4. Liczby i ich odbicia 
+W pliku liczby.txt zapisano 100 nieparzystych liczb całkowitych z przedziału [10, 9999]. 
+Liczby w pliku mogą się powtarzać. 
+ 
+Odbiciem dodatniej nieparzystej liczby całkowitej n nazywamy taką liczbę N, w której zapisie 
+dziesiętnym nastąpiło odwrócenie kolejności cyfr.  
+ 
+Przykład: 
+Odbiciem liczby 2019 jest 9102, natomiast odbiciem liczby 12345 jest 54321. 
+ 
+Napisz program (lub kilka programów), który(-e) znajdzie(-dą) odpowiedzi na poniższe 
+pytania. Każdą odpowiedź zapisz w pliku wyniki4.txt i poprzedź ją numerem 
+oznaczającym zadanie. 
+ 
+Do dyspozycji masz również plik przyklad.txt zawierający tylko 11 nieparzystych liczb 
+całkowitych z przedziału [10, 9999] – odpowiedzi dla tego pliku podane są w treściach 
+zadań, możesz sprawdzać na nim działanie swojego programu.  
+ 
+Uwaga: Pamiętaj, że Twój program (lub kilka programów) musi(-szą) ostatecznie działać dla 
+100 liczb zapisanych w pliku liczby.txt. 
+ 
+ 
+Zadanie 4.1. (0–3) 
+Wyznacz odbicia wszystkich liczb z pliku liczby.txt. Wypisz te odbicia, które są 
+podzielne przez 17. 
+ 
+Dla pliku przyklad.txt odpowiedzią jest 51. 
+ 
+ 
+Zadanie 4.2. (0–3) 
+Dla każdej liczby z pliku liczby.txt oblicz wartość bezwzględną różnicy tej liczby i jej 
+odbicia.  
+Wyznacz taką liczbę n, dla której wartość bezwzględna różnicy tej liczby i jej odbicia jest 
+największa. Podaj tę liczbę oraz wartość bezwzględną różnicy tej liczby i jej odbicia.  
+W pliku liczby.txt jest tylko jedna taka liczba. 
+ 
+Dla pliku przyklad.txt odpowiedzią jest 741 594. 
+ 
+ 
+Zadanie 4.3. (0–3) 
+Wypisz wszystkie liczby pierwsze z pliku liczby.txt, których odbicia również są liczbami 
+pierwszymi, każdą w oddzielnym wierszu. 
+ 
+Dla pliku przyklad.txt odpowiedź to: 
+13 
+131 
+(odbiciem liczby 13 jest 31 – obie są liczbami pierwszymi, odbiciem 131 jest 131) 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 3 z 8 
+EINP-R2_100 
+Zadanie 4.4. (0–3) 
+Podaj: 
+• ile różnych liczb zapisano w pliku liczby.txt 
+• ile liczb powtarza się dokładnie dwa razy w pliku liczby.txt 
+• ile liczb powtarza się dokładnie trzy razy w pliku liczby.txt. 
+ 
+Dla pliku przyklad.txt odpowiedzią jest  10 1 0. 
+ 
+ 
+Do oceny oddajesz:  
+• 
+plik tekstowy wyniki4.txt,  
+• 
+pliki zawierające kody źródłowe Twojego(-ich) programu(-ów) 
+(uwaga: brak tych plików jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+Zadanie 4.1. 
+(nazwa pliku/plików) ……………………………………………………… 
+Zadanie 4.2. 
+(nazwa pliku/plików) ……………………………………………………… 
+Zadanie 4.3. 
+(nazwa pliku/plików) ……………………………………………………… 
+Zadanie 4.4. 
+(nazwa pliku/plików) ……………………………………………………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 4 z 8 
+EINP-R2_100 
+Zadanie 5. Plażowy biznes 
+Pani Ania postanowiła założyć firmę zajmująca się sprzedażą hot-dogów, lodów i kukurydzy 
+turystom wypoczywającym na plaży. Na potrzeby analizy powodzenia przedsięwzięcia swoje 
+obliczenia oparła na prognozowanych wartościach temperatury w poszczególnych dniach 
+w okresie od 1 czerwca 2022 roku do 31 sierpnia 2022 roku. Prognozowane temperatury 
+zapisano w pliku temperatury.txt. Każdy wiersz pliku zawiera informacje o jednym 
+dniu: datę i prognozowaną temperaturę tego dnia wyrażoną w stopniach Celsjusza. Dane 
+w każdym wierszu pliku oddzielono średnikiem. 
+ 
+Przykład: 
+2022-06-01;24 
+2022-06-02;25 
+2022-06-03;27 
+ 
+Pani Ania założyła, że przewidywaną liczbę sprzedanych produktów w poszczególnych 
+dniach uzależni od temperatury i obliczy ją z wyznaczonego przez siebie wzoru: 
+Liczba sprzedanych produktów w danym dniu   = 𝑝∙( 1 + 𝑤∙
+𝑡−24
+2  ) 
+gdzie: 
+p – liczba sztuk danego produktu sprzedana pierwszego dnia (01 czerwca 2022 roku), to jest 
+(wg założeń pani Ani): 90 dla hot-dogów, 120 dla lodów i 80 dla kukurydzy 
+w – współczynnik sprzedawalności danego produktu, to jest (wg założeń pani Ani):  
+1
+13 dla hot-dogów,  
+2
+29 dla lodów oraz  
+1
+17 dla kukurydzy  
+t  – temperatura w danym dniu 
+Otrzymaną liczbę zaokrąglamy w dół do najbliższej liczby całkowitej.  
+ 
+Przykład:  
+Liczba sprzedanych lodów w dniu 03 czerwca 2022 roku wyniesie: 
+𝑝∙(1 + 𝑤∙𝑡−24
+2
+) = 120 ∙(1 + 2
+29 ∙27 −24
+2
+) = 132,4137 … ≈132 
+ 
+Pani Ania ustaliła ceny poszczególnych produktów. Dane zebrała w tabeli poniżej:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wykorzystaj dostępne narzędzia informatyczne i podaj odpowiedzi do zadań 5.1.–5.4. 
+Odpowiedzi zapisz w pliku wyniki5.txt. Każdą odpowiedź poprzedź numerem 
+oznaczającym zadanie. 
+ 
+ 
+Produkt 
+Cena za 1 sztukę 
+lody 
+5 zł 
+kukurydza 
+6 zł 
+hot-dog 
+7 zł 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 5 z 8 
+EINP-R2_100 
+Zadanie 5.1. (0–2) 
+Dzień nazwiemy ciepłym, jeśli temperatura tego dnia jest wyższa niż 20˚C.  Znajdź 
+najdłuższy spójny ciąg ciepłych dni w okresie od 1.06.2022r do 31.08.2022r. Podaj datę 
+początkową i końcową tego ciągu.  
+Przykład:  
+2022-06-01;24 
+2022-06-02;20 
+2022-06-03;27 
+2022-06-04;24 
+2022-06-05;25 
+Dla podanych przykładowych danych najdłuższy spójny ciąg ciepłych dni ma początek  
+3.06.2022, a koniec 5.06.2022. 
+ 
+Zadanie 5.2. (0–4) 
+Wylicz dzienną sprzedaż lodów, kukurydzy i hot-dogów zgodnie ze wzorem pani Ani 
+przedstawionym na początku zadania. Następnie sporządź zestawienie ilustrujące liczby 
+sprzedanych lodów, kukurydzy i hot-dogów w poszczególnych miesiącach. Dane ze 
+sporządzonego zestawienia przedstaw na jednym wykresie kolumnowym. Zadbaj 
+o czytelność i opis wykresu (zastosuj legendę, tytuł, etykiety danych i opisy osi).  
+ 
+Zadanie 5.3. (0–2) 
+Oblicz dzienny utarg ze sprzedaży lodów, kukurydzy oraz hot-dogów łącznie dla każdego 
+dnia. Następnie dla każdego dnia oblicz sumę dziennych utargów do tego dnia włącznie. 
+Którego dnia suma utargów przekroczy 45 000? Podaj datę oraz sumę utargów do tego dnia 
+włącznie. 
+ 
+Zadanie 5.4. (0–3) 
+Załóżmy, że 1 września 2022 roku temperatura powietrza będzie wynosić 23˚C i co drugi 
+dzień będzie malała o jeden stopień Celsjusza, tzn. pierwszego i drugiego dnia września 
+będzie wynosić 23˚C, trzeciego i czwartego będzie równa 22˚C, piątego i szóstego dnia 
+września osiągnie wartość 21˚C itd.  
+a) W którym dniu września po raz pierwszy dzienny utarg ze sprzedaży będzie mniejszy niż 
+1 000 złotych? 
+b) Jaka jest najmniejsza kwota (z dokładnością do 1 grosza), o jaką musiałaby pani Ania 
+podnieść cenę każdego z produktów, aby w każdym dniu września dzienny utarg 
+wynosił co najmniej 1 000 złotych?  
+Do oceny oddajesz:  
+• 
+plik tekstowy wyniki5.txt, zawierający odpowiedzi do zadań  5.1.–5.4. 
+• 
+plik zawierający wykres do zadania 5.2. o nazwie  ………………..………… 
+• 
+plik(-i) zawierający(-e) komputerową realizację Twoich rozwiązań o nazwie(-ach) 
+(uwaga: brak tych plików jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+…………………………………………...…………………………………………… 
+ 
+…………………………………………...…………………………………………… 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 6 z 8 
+EINP-R2_100 
+Zadanie 6. Rozgrywki siatkarskie 
+W pewnej lidze siatkówki w sezonie 2019/2020 rozgrywki rozpoczęły się w październiku 
+2019 roku i zakończyły się pod koniec maja 2020 roku. Rozegrano ponad 300 spotkań. 
+Mecze rozgrywano w różne dni tygodnia. Liczby meczów rozgrywanych w rożne dni mogą 
+być różne. Liczby meczów rozegranych przez poszczególne drużyny mogą być także różne. 
+Dane o wynikach drużyn zostały zgromadzone w plikach: kluby.txt, sedziowie.txt 
+i mecze.txt. Pierwszy wiersz każdego z plików jest wierszem nagłówkowym, a dane 
+w wierszach rozdzielono średnikami.  
+ 
+Plik o nazwie kluby.txt zawiera informacje o klubach, które uczestniczyły 
+w rozgrywkach. W każdym wierszu pliku znajdują się następujące dane: identyfikator klubu, 
+nazwa klubu oraz miasto, w którym klub się znajduje i rozgrywa mecze. 
+ 
+Przykład: 
+Id_klubu;Nazwa;Miasto 
+101;Sfinks;Szymbark 
+102;Zenit;Licowo  
+103;Victoria;Radelko 
+ 
+Plik o nazwie sedziowie.txt zawiera informacje o sędziach, którzy prowadzili spotkania. 
+W każdym wierszu pliku znajdują się następujące dane: identyfikator, imię i nazwisko 
+sędziego. 
+ 
+Przykład: 
+Id_sedziego;Imie;Nazwisko 
+301;Jan;Malinowski 
+302;Szymon;Rutkowski 
+303;Anna;Nowak 
+ 
+Plik o nazwie mecze.txt zawiera informacje o rozegranych spotkaniach (meczach) przez 
+poszczególne drużyny – gospodarzy spotkań. W każdym wierszu pliku znajdują się 
+następujące dane: identyfikator meczu, data rozegrania meczu, identyfikator klubu (drużyny) 
+gospodarza, liczba wygranych setów, liczba przegranych setów, identyfikator sędziego, który 
+prowadził mecz.  
+Uwaga: w pliku mecze.txt nie zapisano informacji o drużynach gości. 
+ 
+Przykład: 
+Id_meczu;Data;Id_klubu;Sety_wygrane;Sety_przegrane;Id_sedziego 
+1;2019-10-16;102;1;3;319 
+2;2019-10-19;106;3;2;306 
+3;2019-10-19;109;0;3;317 
+ 
+Wykorzystaj dostępne narzędzia informatyczne i podaj odpowiedzi do zadań 6.1.–6.5. 
+Odpowiedzi zapisz w pliku wyniki6.txt. Każdą odpowiedź poprzedź numerem 
+oznaczającym zadanie. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 7 z 8 
+EINP-R2_100 
+Zadanie 6.1. (0–1) 
+Ile meczów zakończyło się tzw. tie-breakiem, czyli rozegrano w nich dokładnie pięć setów? 
+ 
+Zadanie 6.2. (0–2) 
+Utwórz zestawienie miast z liczbą rozegranych w nich meczów. Wyniki posortuj  
+od największej liczby meczów do najmniejszej. 
+ 
+Zadanie 6.3. (0–3) 
+Podaj imiona i nazwiska sędziów, którzy poprowadzili więcej spotkań (meczów) niż średnia 
+liczba spotkań przeprowadzonych przez jednego sędziego. 
+ 
+Zadanie 6.4. (0–3) 
+Podaj imiona i nazwiska sędziów, którzy nie prowadzili żadnego spotkania (meczu) ani 
+w Licowie („Licowo”), ani w Szymbarku (”Szymbark”) w okresie od 15 października 2019 roku 
+do 15 grudnia 2019 roku. 
+ 
+Zadanie 6.5. (0–3) 
+Spotkanie (mecz) jest wygrane, jeśli liczba wygranych setów w tym spotkaniu jest większa 
+niż liczba setów przegranych. Utwórz zestawienie klubów, w przypadku których liczba 
+wygranych spotkań jest większa lub równa liczbie spotkań przegranych. Dla każdego takiego 
+klubu podaj jego nazwę, miasto oraz liczby spotkań wygranych i przegranych. 
+ 
+ 
+Do oceny oddajesz: 
+• 
+plik tekstowy wyniki6.txt, zawierający odpowiedzi do zadań 6.1.–6.5.  
+• 
+plik(pliki) zawierający(-e) komputerową realizację Twoich rozwiązań o nazwie(-ach) 
+(uwaga: brak tych plików jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+…………………………………………...…………………………………………… 
+ 
+…………………………………………...…………………………………………… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+Strona 8 z 8 
+EINP-R2_100 
+BRUDNOPIS (nie podlega ocenie) 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Więcej arkuszy znajdziesz na stronie: arkusze.pl

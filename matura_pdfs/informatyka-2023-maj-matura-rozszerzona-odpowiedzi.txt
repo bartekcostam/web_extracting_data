@@ -1,0 +1,1304 @@
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodzaj dokumentu: Zasady oceniania rozwiązań 
+zadań 
+Egzamin: 
+Egzamin maturalny  
+Przedmiot: 
+Informatyka 
+Poziom: 
+Poziom rozszerzony 
+Formy arkusza: 
+MINP-R0-100, MINP-R0-200, MINP-R0-230, 
+MINP-R0-300, MINP-R0-400, MINP-R0-700, 
+MINP-R0-Z01 
+Termin egzaminu: 
+22 maja 2023 r. 
+Data publikacji 
+dokumentu: 
+28 czerwca 2023 r. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 2 z 21 
+Uwagi:  
+Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki 
+zadania.  
+W zadaniach praktycznych wszystkie wyniki muszą być odzwierciedleniem komputerowej 
+realizacji obliczeń. 
+ Gdy wymaganie dotyczy treści szkoły podstawowej, dopisano (SP), a gdy zakresu 
+podstawowego szkoły ponadpodstawowej – dopisano (P).  
+ 
+ 
+Zadanie 1.1. (0–2)     
+ 
+Wymagania egzaminacyjne 2023 i 20241 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+ 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+P. I. 3) […] stosuje podejście zachłanne  
+i rekurencję; 
+P. I. 5)  sprawdza poprawność działania 
+algorytmów dla przykładowych danych. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – odpowiedź z jednym numerem książki w nieodpowiednim miejscu. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+0 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+12 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+9 
+ 
+15 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                               
+ 
+ 
+1 Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań 
+egzaminacyjnych dla egzaminu maturalnego przeprowadzanego w roku szkolnym 
+2022/2023 i 2023/2024 (Dz.U. poz. 1246). 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 3 z 21 
+Zadanie 1.2. (0–3)     
+ 
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+ 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+P. I. 3) […] stosuje podejście zachłanne  
+i rekurencję; 
+P. I. 5)  sprawdza poprawność działania 
+algorytmów dla przykładowych danych. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź w całości poprawna. 
+2 pkt – odpowiedź poprawna w przynajmniej 4 wierszach. 
+1 pkt – odpowiedź poprawna w jednej kolumnie albo w przynajmniej 3 wierszach. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+ 
+n - liczba 
+książek 
+Minimalna liczba 
+półek 
+Maksymalna 
+liczba półek 
+1 
+1 
+1 
+3 
+2 
+3 
+4 
+3 
+4 
+7 
+3 
+7 
+16 
+5 
+16 
+31 
+5 
+31 
+32 
+6 
+32 
+2𝑘−1 
+k  
+𝟐𝒌−𝟏 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 4 z 21 
+ 
+Zadanie 1.3. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+ 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+P. I. 3) […] stosuje podejście zachłanne  
+i rekurencję; 
+P. I. 5)  sprawdza poprawność działania 
+algorytmów dla przykładowych danych. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – odpowiedź poprawna dla jednego podpunktu. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+a)  9, 2, 12, 10, 14, 13, 15 
+b)  10, 8, 4, 6, 15, 12, 13 
+ 
+Zadanie 2.1. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych; 
+I. 3) objaśnia dobrany algorytm, uzasadnia 
+poprawność rozwiązania na wybranych 
+przykładach danych i ocenia jego efektywność; 
+I. 5) przedstawia sposoby reprezentowania w 
+komputerze znaków, liczb […]. 
+I+II. 1)  zapisuje za pomocą listy kroków, 
+schematu blokowego lub pseudokodu,  
+i implementuje w wybranym języku 
+programowania, algorytmy poznane na 
+wcześniejszych etapach […]. 
+P. I. 2)  stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 5 z 21 
+a)  na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi 
+[…]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+ 
+Zasady oceniania 
+3 pkt – poprawny algorytm, w tym: 
+1 pkt – za poprawną pętlę,  
+1 pkt – za poprawne porównywanie kolejnych cyfr binarnych, 
+1 pkt – za poprawne zliczenie liczby bloków, w tym rozpoznawanie końca/początku 
+kolejnego bloku i ustawienia początkowe. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Przykładowe rozwiązanie 
+b  ← 1 
+poprzednia ←  n mod 2 
+n ← n div 2 
+dopóki (n > 0)  
+ 
+cyfra ←  n mod 2 
+ 
+jeśli cyfra ≠ poprzednia 
+ 
+ 
+b ← b + 1 
+ 
+ 
+ 
+poprzednia ← cyfra 
+ 
+n ← n div 2 
+ 
+Zadanie 2.2. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych; 
+I. 5) przedstawia sposoby reprezentowania 
+w komputerze znaków, liczb […]. 
+II. 2) stosuje zasady programowania 
+strukturalnego i obiektowego w rozwiązywaniu 
+problemów; 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 6 z 21 
+P. I. 2)  stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+a)  na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi 
+[…]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – za zliczenie liczb składających się tylko z jednego bloku  
+ALBO  
+za zliczenie liczb składających się z dokładnie dwóch bloków. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+10 
+ 
+Zadanie 2.3. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych; 
+I. 5) przedstawia sposoby reprezentowania 
+w komputerze znaków, liczb […]. 
+II. 2) stosuje zasady programowania 
+strukturalnego i obiektowego w rozwiązywaniu 
+problemów; 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+P. I. 2)  stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+a)  na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi 
+[…]. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 7 z 21 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – za podanie drugiej liczby w kolejności od największej (1101111001101111111).  
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+1110100011100011100 
+ 
+Zadanie 2.4. (0–1)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+ 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych; 
+I. 5) przedstawia sposoby reprezentowania 
+w komputerze znaków, liczb […]. 
+P. I. 2)  stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+a)  na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi 
+[…]. 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+123 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 8 z 21 
+ 
+Zadanie 2.5. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych; 
+I. 5) przedstawia sposoby reprezentowania 
+w komputerze znaków, liczb […]. 
+II. 2) stosuje zasady programowania 
+strukturalnego i obiektowego w rozwiązywaniu 
+problemów; 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+P. I. 2)  stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+a)  na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi 
+[…]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna (poprawne wyniki zapisane w systemie binarnym). 
+2 pkt – odpowiedź zawierająca poprawne wyniki ale zapisane w systemie dziesiętnym.  
+1 pkt – odpowiedź poprawna dla wszystkich wejściowych liczb nieparzystych  
+ALBO dla wszystkich wejściowych liczb parzystych.  
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 9 z 21 
+Rozwiązanie 
+1001011000 
+1111000001 
+1110001000 
+1101100001111010 
+110100010 
+1100110000110000 
+100010000 
+1110111101 
+1100110011 
+1110001100001 
+111110111101000 
+100110100011010 
+1000001000 
+11101010110100010 
+11101101111 
+1100001010101010 
+10011110101 
+1101000111100010001 
+1010000101110010 
+11101100000 
+1000000000 
+100000010010 
+1100010 
+11010011 
+110110000001000 
+1000010 
+10100111001001 
+1100011101111 
+101010110001 
+1001100100001111 
+100110000111 
+110100110011110111 
+111000110110110011 
+10100111101010 
+1111000110011000 
+101111110101 
+1110011111111011 
+11010110100100100 
+110000000 
+1000000110010011 
+1001111100001 
+1111011101 
+11000000100 
+10000101000011110 
+10100010111101 
+1 
+110001000 
+111101100011001 
+100110000 
+1101101011110100 
+110110101111 
+101110111001000100 
+1110110000100111 
+1011001010011 
+100000000 
+1111110111100 
+11011110111001 
+110110101110000110 
+1101101000111101 
+111100010 
+100111010111001 
+110000010100 
+1010111011 
+1001110010010010010 
+101100111101 
+1010110011111100111 
+1101010101000 
+111110101011100 
+10000000 
+11010111000 
+11001110100 
+1010000011010111111 
+110110100101 
+11101100000110 
+1011110010101000000 
+1001010001010010 
+10101100111 
+10000101101 
+100101000010 
+110011000100 
+10010110010110 
+101010010111001 
+1100011110 
+1011100110001011110 
+101001110111001 
+10011000101101011 
+10000000 
+11110110010101011 
+1101011010110 
+1100010010111001 
+11010001001100011 
+1010101001001 
+100000000 
+1100010010010 
+1111100011000 
+1011111011110100 
+11100101101110101 
+110001011011011 
+1011000101011000000 
+11001011110011000
+ 
+Zadanie 3.1. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 10 z 21 
+uruchamianiu i testowaniu programów. 
+P.I. 2) stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane 
+w szkole podstawowej oraz algorytmy: a) na 
+liczbach [...]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+I+II. 2) wykorzystuje znane sobie algorytmy 
+przy rozwiązywaniu i programowaniu 
+rozwiązań następujących problemów:  
+c) znajdowania w ciągu podciągów 
+o różnorodnych własnościach […]. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna (902). 
+1 pkt – odpowiedź 1014 (liczba fragmentów większych bądź równych 90) 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+902 
+ 
+Zadanie 3.2. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+P.I. 2) stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane 
+w szkole podstawowej oraz algorytmy: a) na 
+liczbach [...]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 11 z 21 
+I+II. 2) wykorzystuje znane sobie algorytmy 
+przy rozwiązywaniu i programowaniu 
+rozwiązań następujących problemów:  
+c) znajdowania w ciągu podciągów 
+o różnorodnych własnościach […]. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za podanie poprawnego fragmentu (88) występującego najrzadziej, 
+1 pkt – za podanie poprawnego fragmentu (65) występującego najczęściej, 
+1 pkt – za podanie liczby wystąpień obu fragmentów. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+88 80 
+65 124 
+ 
+Zadanie 3.3. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+P.I. 2) stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane 
+w szkole podstawowej oraz algorytmy: a) na 
+liczbach [...]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+I+II. 2) wykorzystuje znane sobie algorytmy 
+przy rozwiązywaniu i programowaniu 
+rozwiązań następujących problemów:  
+c) znajdowania w ciągu podciągów o 
+różnorodnych własnościach […]. 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 12 z 21 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna (214). 
+2 pkt – odpowiedź, w której nie uwzględniono jednego przypadku ciągu rosnąco-malejącego 
+(np. typu 123454). 
+1 pkt – odpowiedź, w której otrzymano liczbę większą od 214, uwzględniając (oprócz 
+właściwych ciągów) jako rosnąco-malejące kilka ciągów nie spełniających tego 
+warunku (odpowiedź: 215, 216 lub 217). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+214 
+ 
+Zadanie 3.4. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+II. 3) sprawnie posługuje się zintegrowanym 
+środowiskiem programistycznym przy pisaniu, 
+uruchamianiu i testowaniu programów. 
+P.I. 2) stosuje przy rozwiązywaniu problemów 
+z różnych dziedzin algorytmy poznane 
+w szkole podstawowej oraz algorytmy: a) na 
+liczbach [...]. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+I+II. 2) wykorzystuje znane sobie algorytmy 
+przy rozwiązywaniu i programowaniu 
+rozwiązań następujących problemów:  
+c) znajdowania w ciągu podciągów 
+o różnorodnych własnościach […]. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za podanie pozycji, od której rozpoczyna się najdłuższy podciąg, 
+1 pkt – za podanie najdłuższego podciągu. 
+1 pkt – odpowiedź, w której podano pozycję oraz długość ciągu (9), a nie sam ciąg. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 13 z 21 
+Rozwiązanie 
+2781 
+014576540 
+ 
+Zadanie 4. (0–1)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+V. Przestrzeganie prawa i zasad 
+bezpieczeństwa. Respektowanie 
+prywatności informacji i ochrony 
+danych, praw własności intelektualnej, 
+etykiety w komunikacji i norm 
+współżycia społecznego, ocena 
+zagrożeń związanych z technologią i ich 
+uwzględnienie dla bezpieczeństwa 
+swojego i innych. 
+Zdający: 
+P.V.3) […] objaśnia rolę szyfrowania informacji; 
+V. 1) objaśnia rolę technik uwierzytelniania, 
+kryptografii i podpisu elektronicznego  
+w ochronie i dostępie do informacji; 
+V. 2) omawia znaczenie algorytmów 
+szyfrowania i składania podpisu 
+elektronicznego. 
+ 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna (PF). 
+0 pkt – odpowiedź niepoprawna, niepełna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+PF 
+ 
+Zadanie 5. (0–1)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+Zdający: 
+P.I.2) stosuje przy rozwiązywaniu problemów  
+z różnych dziedzin algorytmy poznane w szkole 
+podstawowej oraz algorytmy: 
+a) na liczbach: […] zamiany reprezentacji liczb 
+między pozycyjnymi systemami liczbowymi, 
+[…]. 
+I. 5) przedstawia sposoby reprezentowania  
+w komputerze znaków, liczb, […]. 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+(134)5   
+< 
+(134)6 
+(2222)3  
+< 
+(1111)6 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 14 z 21 
+ 
+ 
+ 
+Zadanie 6.1. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+b) stosuje zaawansowane funkcje arkusza 
+kalkulacyjnego w zależności od rodzaju 
+danych [...]. 
+P.II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+b) gromadzi dane pochodzące z różnych 
+źródeł w tabeli arkusza kalkulacyjnego, 
+korzysta z różnorodnych funkcji arkusza 
+w zależności od rodzaju danych, filtruje dane 
+według kilku kryteriów, dobiera odpowiednie 
+wykresy do zaprezentowania danych, 
+analizuje dane, korzystając z dodatkowych 
+narzędzi, w tym z tabel i wykresów 
+przestawnych. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za prawidłowe zestawienie, 
+2 pkt – za prawidłowy wykres, w tym: 
+ 
+  
+1 pkt – typ wykresu i dobór danych, 
+ 
+  
+1 pkt – prawidłowy opis (tytuł, legenda, nazwy miesięcy na osi X, opis osi Y). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+miesiąc 
+dostawa_malin 
+dostawa_truskawek 
+dostawa_porzeczek 
+maj 
+9238 
+9287 
+3309 
+czerwiec 
+9485 
+8916 
+5081 
+lipiec 
+11592 
+11339 
+10567 
+sierpień 
+11045 
+11386 
+11078 
+wrzesień 
+6532 
+7476 
+6355 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 15 z 21 
+ 
+ 
+Zadanie 6.2. (0–1)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+b) stosuje zaawansowane funkcje arkusza 
+kalkulacyjnego w zależności od rodzaju 
+danych [...]. 
+P.II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+b) gromadzi dane pochodzące z różnych 
+źródeł w tabeli arkusza kalkulacyjnego, 
+korzysta z różnorodnych funkcji arkusza 
+w zależności od rodzaju danych, filtruje dane 
+według kilku kryteriów, dobiera odpowiednie 
+wykresy do zaprezentowania danych, 
+analizuje dane, korzystając z dodatkowych 
+narzędzi, w tym z tabel i wykresów 
+przestawnych. 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 16 z 21 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna (19). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+19 
+ 
+Zadanie 6.3. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+b) stosuje zaawansowane funkcje arkusza 
+kalkulacyjnego w zależności od rodzaju 
+danych [...]. 
+P.II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+b) gromadzi dane pochodzące z różnych 
+źródeł w tabeli arkusza kalkulacyjnego, 
+korzysta z różnorodnych funkcji arkusza 
+w zależności od rodzaju danych, filtruje dane 
+według kilku kryteriów, dobiera odpowiednie 
+wykresy do zaprezentowania danych, 
+analizuje dane, korzystając z dodatkowych 
+narzędzi, w tym z tabel i wykresów 
+przestawnych 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym: 
+po 1 pkt – za dane dla każdego rodzaju konfitur. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+malinowo-porzeczkowe 
+41 
+malinowo-truskawkowe 
+72 
+truskawkowo-porzeczkowe 
+40 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 17 z 21 
+Zadanie 6.4. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+b) stosuje zaawansowane funkcje arkusza 
+kalkulacyjnego w zależności od rodzaju 
+danych [...]. 
+P.II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+b) gromadzi dane pochodzące z różnych 
+źródeł w tabeli arkusza kalkulacyjnego, 
+korzysta z różnorodnych funkcji arkusza 
+w zależności od rodzaju danych, filtruje dane 
+według kilku kryteriów, dobiera odpowiednie 
+wykresy do zaprezentowania danych, 
+analizuje dane, korzystając z dodatkowych 
+narzędzi, w tym z tabel i wykresów 
+przestawnych. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym: 
+po 1 pkt – za dane dla każdego rodzaju konfitur.  
+2 pkt – odpowiedź, w której podano liczby dwa razy większe niż poprawne dla każdego 
+rodzaju konfitur. 
+1 pkt – za podanie tylko łącznej sumy (66122). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+malinowo-porzeczkowe 
+18008 
+malinowo-truskawkowe 
+29732 
+truskawkowo-porzeczkowe 
+18382 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 18 z 21 
+Zadanie 7.1. (0–1)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+c) projektuje i tworzy relacyjną bazę złożoną 
+z wielu tabel oraz sieciową aplikację 
+bazodanową dla danych związanych 
+z rozwiązywanym problemem, formułuje 
+kwerendy, tworzy i modyfikuje formularze oraz 
+raporty, stosuje język SQL do wyszukiwania 
+informacji w bazie i do jej modyfikacji, 
+uwzględnia kwestie integralności danych, 
+bezpieczeństwa i ochrony danych w bazie. 
+P. II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+c) wyszukuje informacje, korzystając z bazy 
+danych opartej na co najmniej dwóch 
+tabelach, definiuje relacje, stosuje filtrowanie, 
+formułuje kwerendy. 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna (K2). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+K2 
+ 
+Zadanie 7.2. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+c) projektuje i tworzy relacyjną bazę złożoną 
+z wielu tabel oraz sieciową aplikację 
+bazodanową dla danych związanych 
+z rozwiązywanym problemem, formułuje 
+kwerendy, tworzy i modyfikuje formularze oraz 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 19 z 21 
+raporty, stosuje język SQL do wyszukiwania 
+informacji w bazie i do jej modyfikacji, 
+uwzględnia kwestie integralności danych, 
+bezpieczeństwa i ochrony danych w bazie. 
+P. II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+c) wyszukuje informacje, korzystając z bazy 
+danych opartej na co najmniej dwóch 
+tabelach, definiuje relacje, stosuje filtrowanie, 
+formułuje kwerendy. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna, w tym: 
+1 pkt – wypisanie poprawnych wyników, 
+1 pkt – podanie średnich z dokładnością do dwóch miejsc po przecinku. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+ 
+nazwa 
+Średnia ocena 
+5 sekund 
+8,16 
+Avalone 
+8,25 
+Colt Express 
+7,54 
+Jenga 
+8,16 
+Koncept 
+8,37 
+Mamy szpiega 
+8,22 
+Przebiegle wielblady 
+7,73 
+Sushi Go 
+8,07 
+Swiatowy Konflikt 
+7,80 
+Szeryf z Nottingham 
+7,88 
+ 
+ 
+Zadanie 7.3. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+c) projektuje i tworzy relacyjną bazę złożoną 
+z wielu tabel oraz sieciową aplikację 
+bazodanową dla danych związanych 
+z rozwiązywanym problemem, formułuje 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki 
+Strona 20 z 21 
+kwerendy, tworzy i modyfikuje formularze oraz 
+raporty, stosuje język SQL do wyszukiwania 
+informacji w bazie i do jej modyfikacji, 
+uwzględnia kwestie integralności danych, 
+bezpieczeństwa i ochrony danych w bazie. 
+P. II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+c) wyszukuje informacje, korzystając z bazy 
+danych opartej na co najmniej dwóch 
+tabelach, definiuje relacje, stosuje filtrowanie, 
+formułuje kwerendy. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna (334). 
+1 pkt – odpowiedź uwzględniająca graczy, którzy nie wystawili żadnej oceny (351).  
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+334 
+ 
+Zadanie 7.4. (0–3)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+c) projektuje i tworzy relacyjną bazę złożoną 
+z wielu tabel oraz sieciową aplikację 
+bazodanową dla danych związanych 
+z rozwiązywanym problemem, formułuje 
+kwerendy, tworzy i modyfikuje formularze oraz 
+raporty, stosuje język SQL do wyszukiwania 
+informacji w bazie i do jej modyfikacji, 
+uwzględnia kwestie integralności danych, 
+bezpieczeństwa i ochrony danych w bazie. 
+P. II. 3) przygotowuje opracowania rozwiązań 
+problemów, posługując się wybranymi 
+aplikacjami: 
+c) wyszukuje informacje, korzystając z bazy 
+danych opartej na co najmniej dwóch 
+tabelach, definiuje relacje, stosuje filtrowanie, 
+formułuje kwerendy. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 21 z 21 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym:  
+po 1 pkt – za tytuły i liczby ocen gier dla każdego przedziału wiekowego (juniorzy, 
+seniorzy, weterani). 
+2 pkt – za poprawne wyniki dla wszystkich kategorii wiekowych z podaniem id_gry zamiast 
+tytułu. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+ 
+Kategoria 
+Tytuł  gry 
+Liczba ocen 
+juniorzy 
+Terraformacja Marsa 
+6 
+juniorzy 
+K2 
+6 
+seniorzy 
+K2 
+24 
+weterani 
+Robinson Crusoe 
+28 
+ 
+ 
+Zadanie 7.5. (0–2)     
+Wymagania egzaminacyjne 2023 i 2024 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych. 
+Zdający: 
+II. 4) przygotowując opracowania rozwiązań 
+złożonych problemów, posługuje się 
+wybranymi aplikacjami w stopniu 
+zaawansowanym: 
+c) projektuje i tworzy relacyjną bazę złożoną 
+z wielu tabel oraz sieciową aplikację 
+bazodanową dla danych związanych 
+z rozwiązywanym problemem, formułuje 
+kwerendy […] stosuje język SQL do 
+wyszukiwania informacji w bazie i do jej 
+modyfikacji […]. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna (poprawny zapis zapytania zgodny z treścią zadania). 
+1 pkt – odpowiedź z jednym błędem np. brak jednego warunku albo błąd przy JOIN.  
+0 pkt – odpowiedź niepoprawna albo brak rozwiązania. 
+ 
+Przykładowe rozwiązanie 
+SELECT Sum(cena)  
+FROM Gry  
+INNER JOIN Sklep ON Gry.id_gry = Sklep.id_gry 
+WHERE Gry.kategoria = "logiczna" and Sklep.promocja = true; 
+ 

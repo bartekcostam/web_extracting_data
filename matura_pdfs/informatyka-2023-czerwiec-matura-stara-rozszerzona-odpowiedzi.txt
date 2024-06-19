@@ -1,0 +1,1189 @@
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodzaj dokumentu: Zasady oceniania rozwiązań 
+zadań 
+Egzamin: 
+Egzamin maturalny  
+Przedmiot: 
+Informatyka 
+Poziom: 
+Poziom rozszerzony 
+Formy arkusza: 
+EINP-R1-100 EINP-R2-100 
+Termin egzaminu: 
+16 czerwca 2023 r. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 2 z 20 
+Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające 
+warunki zadania.   
+ 
+Gdy wymaganie dotyczy treści szkoły podstawowej, dopisano (SP), a gdy zakresu 
+podstawowego szkoły ponadpodstawowej – dopisano (P).  
+ 
+Zadanie 1.1. (0–2)     
+Wymagania egzaminacyjne 2023 i 20241 
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera z 
+zastosowaniem podejścia 
+algorytmicznego.   
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji […], stosowanie podejścia 
+algorytmicznego.    
+Zdający:    
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin; 
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu; 
+4) posługuje się podstawowymi technikami 
+algorytmicznymi. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna w 3 wierszach. 
+1 pkt – odpowiedź poprawna w 2 wierszach. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+ 
+Odpowiedź 
+a 
+b 
+Suma cyfr 
+liczby a 
+Suma cyfr 
+liczby b 
+Przyjaciółki 
+(tak/nie) 
+Dobre 
+przyjaciółki 
+(tak/nie) 
+433 
+352 
+10 
+10 
+PRAWDA 
+PRAWDA 
+131 
+50 
+5 
+5 
+PRAWDA 
+FAŁSZ 
+416 
+84 
+11 
+12 
+FAŁSZ 
+FAŁSZ 
+32 
+221 
+5 
+5 
+PRAWDA 
+PRAWDA 
+ 
+ 
+                                               
+ 
+ 
+1 Rozporządzenie Ministra Edukacji i Nauki z dnia 7 czerwca 2022 r. w sprawie wymagań 
+egzaminacyjnych dla egzaminu maturalnego przeprowadzanego w roku szkolnym 
+2022/2023 i 2023/2024  
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 3 z 20 
+ 
+Zadanie 1.2. (0–4)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera z 
+zastosowaniem podejścia 
+algorytmicznego.   
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji […], stosowanie podejścia 
+algorytmicznego.    
+Zdający:    
+1) analizuje, modeluje i rozwiązuje sytuacje  
+problemowe z różnych dziedzin;  
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu; 
+3) dobiera efektywny algorytm do rozwiązania 
+sytuacji problemowej i zapisuje go w wybranej 
+notacji;  
+4) posługuje się podstawowymi technikami 
+algorytmicznymi;  
+5) ocenia własności rozwiązania 
+algorytmicznego (komputerowego), np. 
+zgodność ze specyfikacją, efektywność 
+działania; 
+6) opracowuje i przeprowadza wszystkie etapy 
+prowadzące do otrzymania poprawnego 
+rozwiązania problemu: od sformułowania 
+specyfikacji problemu po testowanie 
+rozwiązania. 
+ 
+Zasady oceniania 
+4 pkt – odpowiedź poprawna, w tym 
+1 pkt – za poprawne wyłuskanie kolejnej cyfry liczby a i b 
+1 pkt – za poprawną organizację pętli dla obu liczb 
+1 pkt – za poprawne zsumowanie cyfr dla obu liczb i porównanie sumy 
+1 pkt – za poprawne zapamiętanie ostatnich cyfr i pierwszych cyfr i ich porównanie 
+0 pkt – inna odpowiedź niepoprawna albo brak odpowiedzi 
+ 
+Przykładowe rozwiązanie 
+ 
+ka ← a mod 10 
+kb ← b mod 10 
+sa ← 0 
+sb ← 0 
+dopóki a>0  
+jeżeli a < 10  
+pa ← a 
+ 
+sa ← sa + a mod 10 
+ 
+a ← a div 10 
+dopóki b>0  
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 4 z 20 
+jeżeli b < 10 
+pb ← b 
+ 
+sb ← sb + a mod 10 
+ 
+b ← b div 10 
+jeżeli sa = sb  i  (pa = kb  lub pb = ka) 
+ 
+wynik PRAWDA 
+inaczej 
+ 
+wynik FAŁSZ  
+ 
+Zadanie 2.1. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera z 
+zastosowaniem podejścia 
+algorytmicznego.   
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji […], stosowanie podejścia 
+algorytmicznego.    
+Zdający:    
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin; 
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu; 
+4) posługuje się podstawowymi technikami 
+algorytmicznymi. 
+8) stosuje rekurencję w prostych sytuacjach 
+problemowych; 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna w 6 wierszach. 
+1 pkt – odpowiedź poprawna w 5 wierszach. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+numer wywowałania 
+x 
+y 
+k 
+z 
+Wynik 
+1 
+10 
+45 
+22 
+220 
+450 
+2 
+10 
+22 
+11 
+110 
+220 
+3 
+10 
+11 
+5 
+50 
+110 
+4 
+10 
+5 
+2 
+20 
+50 
+5 
+10 
+2 
+1 
+10 
+20 
+6 
+10 
+1 
+– 
+- 
+10 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 5 z 20 
+Zadanie 2.2. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+P. I. 3) […], stosuje podejście zachłanne  
+i rekurencję; 
+P. I. 5) sprawdza poprawność działania 
+algorytmów dla przykładowych danych. 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+8) stosuje rekurencję w prostych sytuacjach 
+problemowych; 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna  
+1 pkt – odpowiedź poprawna w dwóch wierszach 
+0 pkt – inna odpowiedź niepoprawna albo brak rozwiązania. 
+ 
+Poprawna odpowiedź 
+ 
+  
+x 
+y 
+Liczba 
+dodawań 
+9 
+11 
+5 
+8 
+32 
+5 
+2 
+47 
+9 
+112 
+112 
+8 
+ 
+ 
+Zadanie 2.3. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Rozumienie, analizowanie 
+i rozwiązywanie problemów. 
+II. Programowanie i rozwiązywanie 
+problemów z wykorzystaniem 
+komputera i innych urządzeń cyfrowych 
+I. 2) do realizacji rozwiązania problemu 
+dobiera odpowiednią metodę lub technikę 
+algorytmiczną i struktury danych. 
+P. I. 3) […], stosuje podejście zachłanne i 
+rekurencję; 
+P. I. 5) sprawdza poprawność działania 
+algorytmów dla przykładowych danych. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 6 z 20 
+P.II. 1) projektuje i programuje rozwiązania 
+problemów z różnych dziedzin, stosuje przy 
+tym: instrukcje wejścia/wyjścia, wyrażenia 
+arytmetyczne i logiczne, instrukcje 
+warunkowe, instrukcje iteracyjne, funkcje 
+z parametrami i bez parametrów [...]. 
+8) stosuje rekurencję w prostych sytuacjach 
+problemowych; 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna dla trzech luk 
+1 pkt – odpowiedź poprawna dla dwóch luk 
+0 pkt – odpowiedź niepoprawna albo brak rozwiązania. 
+ 
+Przykładowe rozwiązanie 
+ 
+z ← 0 
+dopóki y ≥ 1, wykonuj: 
+     jeżeli y mod 2 = 1 
+          z ← z + x 
+     x ← x + x 
+     y ← y div 2 
+ 
+ 
+Zadanie 3.1 (0–1)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+I. Bezpieczne posługiwanie się 
+komputerem i jego oprogramowaniem, 
+wykorzystanie sieci komputerowej; 
+komunikowanie się za pomocą 
+komputera i technologii informacyjno- 
+-komunikacyjnych. 
+1. Posługiwanie się komputerem i jego 
+oprogramowaniem, korzystanie z sieci 
+komputerowej.  
+Zdający:  
+1) przedstawia sposoby reprezentowania 
+różnych form informacji w komputerze: liczb 
+[…] 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna 
+0 pkt – odpowiedź niepoprawna, niepełna albo brak rozwiązania. 
+ 
+Odpowiedź 
+FPPP 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 7 z 20 
+Zadanie 3.2. (0–1)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł [..]. 
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji. 
+Zdający:  
+2) stosuje metody wyszukiwania  
+i przetwarzania informacji w relacyjnej 
+bazie danych (język SQL). 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna 
+0 pkt – odpowiedź niepoprawna, niepełna albo brak rozwiązania. 
+ 
+Odpowiedź 
+PFPF 
+ 
+Zadanie 3.3. (0–1)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł [..]. 
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji. 
+Zdający:  
+2) stosuje metody wyszukiwania  
+i przetwarzania informacji w relacyjnej 
+bazie danych (język SQL). 
+ 
+Zasady oceniania 
+1 pkt – odpowiedź poprawna 
+0 pkt – odpowiedź niepoprawna, niepełna albo brak rozwiązania. 
+ 
+Odpowiedź 
+PPFP 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 8 z 20 
+Część II    
+Uwaga: Wszystkie wyniki muszą być odzwierciedleniem komputerowej realizacji obliczeń.   
+Gdy wymaganie dotyczy treści gimnazjum, dopisano (G), a gdy zakresu podstawowego 
+szkoły ponadgimnazjalnej – dopisano (P).  
+ 
+Zadanie 4.1. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera, z 
+zastosowaniem podejścia 
+algorytmicznego. 
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji z wykorzystaniem komputera, 
+stosowanie podejścia algorytmicznego.  
+Zdający:  
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin;  
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu;  
+3) dobiera efektywny algorytm do rozwiązania 
+sytuacji problemowej i zapisuje go w wybranej 
+notacji;  
+4) posługuje się podstawowymi technikami 
+algorytmicznymi;  
+5) ocenia własności rozwiązania 
+algorytmicznego (komputerowego), np. 
+zgodność ze specyfikacją, efektywność 
+działania;  
+6) opracowuje i przeprowadza wszystkie etapy 
+prowadzące do otrzymania poprawnego 
+rozwiązania problemu: od sformułowania 
+specyfikacji problemu po testowanie 
+rozwiązania;  
+10) opisuje podstawowe algorytmy i stosuje:  
+a) algorytmy na liczbach całkowitych - 
+reprezentacja liczb w dowolnym systemie 
+pozycyjnym, w tym w dwójkowym i 
+szesnastkowym, […]. 
+21) stosuje podstawowe konstrukcje 
+programistyczne w wybranym języku 
+programowania, instrukcje iteracyjne  
+i warunkowe, rekurencję, funkcje i procedury, 
+instrukcje wejścia i wyjścia, poprawnie tworzy 
+strukturę programu;     
+23) dobiera właściwy program użytkowy lub 
+samodzielnie napisany program do 
+rozwiązywanego zadania;  
+24) ocenia poprawność komputerowego 
+rozwiązania problemu na podstawie jego 
+testowania.    
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 9 z 20 
+ 
+Zasady oceniania 
+2 pkt – za podanie prawidłowej odpowiedzi dla obu rodzajów liczb. 
+1 pkt – za podanie poprawnej odpowiedzi dla tylko jednego rodzaju liczb. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Rozwiązanie 
+118 
+219 
+ 
+Zadanie 4.2. (0–3)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera, z 
+zastosowaniem podejścia 
+algorytmicznego. 
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji z wykorzystaniem komputera, 
+stosowanie podejścia algorytmicznego.  
+Zdający:  
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin;  
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu;  
+3) dobiera efektywny algorytm do rozwiązania 
+sytuacji problemowej i zapisuje go w wybranej 
+notacji;  
+4) posługuje się podstawowymi technikami 
+algorytmicznymi;  
+5) ocenia własności rozwiązania 
+algorytmicznego (komputerowego), np. 
+zgodność ze specyfikacją, efektywność 
+działania;  
+6) opracowuje i przeprowadza wszystkie etapy 
+prowadzące do otrzymania poprawnego 
+rozwiązania problemu: od sformułowania 
+specyfikacji problemu po testowanie 
+rozwiązania;  
+10) opisuje podstawowe algorytmy i stosuje:  
+a) algorytmy na liczbach całkowitych - 
+reprezentacja liczb w dowolnym systemie 
+pozycyjnym, w tym w dwójkowym i 
+szesnastkowym, […]. 
+21) stosuje podstawowe konstrukcje 
+programistyczne w wybranym języku 
+programowania, instrukcje iteracyjne  
+i warunkowe, rekurencję, funkcje i procedury, 
+instrukcje wejścia i wyjścia, poprawnie tworzy 
+strukturę programu;     
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 10 z 20 
+23) dobiera właściwy program użytkowy lub 
+samodzielnie napisany program do 
+rozwiązywanego zadania;  
+24) ocenia poprawność komputerowego 
+rozwiązania problemu na podstawie jego 
+testowania.    
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna 
+2 pkt – podanie odpowiedzi uwzględniającej jedynie jeden z warunków, np. gdy liczba zer 
+i jedynek jest jednakowa 
+ALBO  
+poprawne rozwiązanie zadania dla 7 lub 9-cyfrowej liczby dwójkowej. 
+1 pkt – rozwiązanie zadania bez uwzględnienia warunku, że 1 musi być na początku liczby 
+dwójkowej i uwzględniając jedynie jeden z warunków, np. gdy liczba zer i jedynek jest 
+jednakowa.  
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Poprawna odpowiedź 
+10110101 
+11010100 
+10100101 
+11001001 
+10110100 
+11001101 
+11000110 
+ 
+Zadanie 4.3. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera, z 
+zastosowaniem podejścia 
+algorytmicznego. 
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji z wykorzystaniem komputera, 
+stosowanie podejścia algorytmicznego.  
+Zdający:  
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin;  
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu;  
+3) dobiera efektywny algorytm do rozwiązania 
+sytuacji problemowej i zapisuje go w wybranej 
+notacji;  
+4) posługuje się podstawowymi technikami 
+algorytmicznymi;  
+5) ocenia własności rozwiązania 
+algorytmicznego (komputerowego), np. 
+zgodność ze specyfikacją, efektywność 
+działania;  
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 11 z 20 
+6) opracowuje i przeprowadza wszystkie etapy 
+prowadzące do otrzymania poprawnego 
+rozwiązania problemu: od sformułowania 
+specyfikacji problemu po testowanie 
+rozwiązania;  
+10) opisuje podstawowe algorytmy i stosuje:  
+a) algorytmy na liczbach całkowitych - 
+reprezentacja liczb w dowolnym systemie 
+pozycyjnym, w tym w dwójkowym i 
+szesnastkowym, […]. 
+21) stosuje podstawowe konstrukcje 
+programistyczne w wybranym języku 
+programowania, instrukcje iteracyjne  
+i warunkowe, rekurencję, funkcje i procedury, 
+instrukcje wejścia i wyjścia, poprawnie tworzy 
+strukturę programu;     
+23) dobiera właściwy program użytkowy lub 
+samodzielnie napisany program do 
+rozwiązywanego zadania;  
+24) ocenia poprawność komputerowego 
+rozwiązania problemu na podstawie jego 
+testowania.    
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna 
+1 pkt – odpowiedź podana w systemie dziesiętnym (9785)  
+ALBO  
+odpowiedź nie uwzględniająca wartości bezwzględnej (9729 / 10011000000001)  
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Poprawna odpowiedź 
+10011000111001 
+ 
+Zadanie 4.4. (0–4)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+III. Rozwiązywanie problemów  
+i podejmowanie decyzji z 
+wykorzystaniem komputera, z 
+zastosowaniem podejścia 
+algorytmicznego. 
+4. Rozwiązywanie problemów i podejmowanie 
+decyzji z wykorzystaniem komputera, 
+stosowanie podejścia algorytmicznego.  
+Zdający:  
+1) analizuje, modeluje i rozwiązuje sytuacje 
+problemowe z różnych dziedzin;  
+2) stosuje podejście algorytmiczne do 
+rozwiązywania problemu;  
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 12 z 20 
+3) dobiera efektywny algorytm do rozwiązania 
+sytuacji problemowej i zapisuje go w wybranej 
+notacji;  
+4) posługuje się podstawowymi technikami 
+algorytmicznymi;  
+5) ocenia własności rozwiązania 
+algorytmicznego (komputerowego), np. 
+zgodność ze specyfikacją, efektywność 
+działania;  
+6) opracowuje i przeprowadza wszystkie etapy 
+prowadzące do otrzymania poprawnego 
+rozwiązania problemu: od sformułowania 
+specyfikacji problemu po testowanie 
+rozwiązania;  
+10) opisuje podstawowe algorytmy i stosuje:  
+a) algorytmy na liczbach całkowitych - 
+reprezentacja liczb w dowolnym systemie 
+pozycyjnym, w tym w dwójkowym i 
+szesnastkowym, […]. 
+21) stosuje podstawowe konstrukcje 
+programistyczne w wybranym języku 
+programowania, instrukcje iteracyjne  
+i warunkowe, rekurencję, funkcje i procedury, 
+instrukcje wejścia i wyjścia, poprawnie tworzy 
+strukturę programu;     
+23) dobiera właściwy program użytkowy lub 
+samodzielnie napisany program do 
+rozwiązywanego zadania;  
+24) ocenia poprawność komputerowego 
+rozwiązania problemu na podstawie jego 
+testowania.    
+ 
+Zasady oceniania 
+4 pkt – odpowiedź poprawna, w tym  
+1 pkt – za liczbę liczb bez zera, 
+3 pkt – za liczbę z maksymalną sumą różnych cyfr   
+(2 pkt – za podanie liczby z maksymalną sumą różnych cyfr, ale nie pierwszą  
+  występującą w pliku; 
+ 
+ 
+1 pkt – za podanie liczby z maksymalną sumą cyfr – ale nie różnych). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Poprawna odpowiedź 
+728 
+7896 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 13 z 20 
+ 
+Zadanie 5.1. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: rysunków, tekstów, danych 
+liczbowych […].    
+3. Opracowywanie informacji za pomocą 
+komputera, w tym: rysunków, tekstów, danych 
+liczbowych […].  
+Zdający:  
+1) wykorzystuje arkusz kalkulacyjny do 
+obrazowania zależności funkcyjnych i do 
+zapisywania algorytmów. 
+P. 3.3) gromadzi w tabeli arkusza 
+kalkulacyjnego dane pochodzące np.  
+z internetu, stosuje zaawansowane 
+formatowanie tabeli arkusza, dobiera 
+odpowiednie wykresy do zaprezentowania 
+danych. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za liczbę jabłoni, 
+1 pkt – za liczbę wiśni. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+Jabłonie: 32 
+Wiśnie: 30 
+ 
+Zadanie 5.2. (0–3)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: rysunków, tekstów, danych 
+liczbowych […].    
+3. Opracowywanie informacji za pomocą 
+komputera, w tym: rysunków, tekstów, danych 
+liczbowych […].  
+Zdający:  
+1) wykorzystuje arkusz kalkulacyjny do 
+obrazowania zależności funkcyjnych i do 
+zapisywania algorytmów. 
+P. 3.3) gromadzi w tabeli arkusza 
+kalkulacyjnego dane pochodzące np.  
+z internetu, stosuje zaawansowane 
+formatowanie tabeli arkusza, dobiera 
+odpowiednie wykresy do zaprezentowania 
+danych. 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 14 z 20 
+Zasady oceniania 
+3 pkt – prawidłowy wykres 
+1 pkt – poprawność dat, 
+1 pkt – prawidłowy typ wykresu, 
+1 pkt – opis wykresu. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+ 
+ 
+Zadanie 5.3. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: rysunków, tekstów, danych 
+liczbowych […].    
+3. Opracowywanie informacji za pomocą 
+komputera, w tym: rysunków, tekstów, danych 
+liczbowych […].  
+Zdający:  
+1) wykorzystuje arkusz kalkulacyjny do 
+obrazowania zależności funkcyjnych i do 
+zapisywania algorytmów. 
+P. 3.3) gromadzi w tabeli arkusza 
+kalkulacyjnego dane pochodzące np.  
+z internetu, stosuje zaawansowane 
+formatowanie tabeli arkusza, dobiera 
+odpowiednie wykresy do zaprezentowania 
+danych. 
+ 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – Za podanie daty dnia, w którym po raz pierwszy sprzedaż drzewek wiśni wyniosła 3 
+(13.04.2022). 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 15 z 20 
+ 
+Odpowiedź 
+27.04.2022 
+ 
+Zadanie 5.4. (0–3)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: rysunków, tekstów, danych 
+liczbowych […].    
+3. Opracowywanie informacji za pomocą 
+komputera, w tym: rysunków, tekstów, danych 
+liczbowych […].  
+Zdający:  
+1) wykorzystuje arkusz kalkulacyjny do 
+obrazowania zależności funkcyjnych i do 
+zapisywania algorytmów. 
+P. 3.3) gromadzi w tabeli arkusza 
+kalkulacyjnego dane pochodzące np.  
+z internetu, stosuje zaawansowane 
+formatowanie tabeli arkusza, dobiera 
+odpowiednie wykresy do zaprezentowania 
+danych. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym:  
+po 1 pkt – za każdy prawidłowy wiersz. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+od 
+do 
+liczba 
+0 
+10 
+148 
+10 
+20 
+63 
+20 
+10000 
+3 
+ 
+Zadanie 5.5. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: rysunków, tekstów, danych 
+liczbowych […].    
+3. Opracowywanie informacji za pomocą 
+komputera, w tym: rysunków, tekstów, danych 
+liczbowych […].  
+Zdający:  
+1) wykorzystuje arkusz kalkulacyjny do 
+obrazowania zależności funkcyjnych i do 
+zapisywania algorytmów. 
+P. 3.3) gromadzi w tabeli arkusza 
+kalkulacyjnego dane pochodzące np.  
+z internetu, stosuje zaawansowane 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 16 z 20 
+formatowanie tabeli arkusza, dobiera 
+odpowiednie wykresy do zaprezentowania 
+danych. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – odpowiedź 49. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+48 
+ 
+Zadanie 6.1. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: tekstów, danych liczbowych 
+[…].    
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji.  
+Zdający:  
+1) projektuje relacyjną bazę danych 
+z zapewnieniem integralności danych;  
+2) stosuje metody wyszukiwania 
+i przetwarzania informacji w relacyjnej bazie 
+danych (język SQL);  
+3) tworzy aplikację bazodanową, w tym 
+sieciową, wykorzystującą język zapytań, 
+kwerendy, raporty; zapewnia integralność 
+danych na poziomie pól, tabel, relacji. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – odpowiedź poprawna dla jednego lub dwóch typów urządzeń. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+typ_u  
+liczba_instalacji 
+PC           
+16 
+Phone     
+2814 
+Tablet     
+267 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 17 z 20 
+ 
+Zadanie 6.2. (0–3)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: tekstów, danych liczbowych 
+[…].    
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji.  
+Zdający:  
+1) projektuje relacyjną bazę danych 
+z zapewnieniem integralności danych;  
+2) stosuje metody wyszukiwania 
+i przetwarzania informacji w relacyjnej bazie 
+danych (język SQL);  
+3) tworzy aplikację bazodanową, w tym 
+sieciową, wykorzystującą język zapytań, 
+kwerendy, raporty; zapewnia integralność 
+danych na poziomie pól, tabel, relacji. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym 
+2 pkt – podanie nazwy producenta i liczby instalacji;  (w przypadku nie uwzględnienia 
+warunku dotyczącego daty 1 pkt), 
+1 pkt – posortowanie wyniku. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Odpowiedź 
+producent 
+liczba 
+Samsung 
+478 
+Huawei 
+142 
+LGE 
+81 
+Xiaomi 
+78 
+Motorola 
+67 
+OnePlus 
+34 
+Google 
+33 
+Lenovo 
+25 
+Sony 
+23 
+ZTE 
+21 
+Asus 
+20 
+TCT (Alcatel) 
+14 
+Oppo 
+10 
+Nokia 
+9 
+Vivo 
+6 
+HTC 
+5 
+RCA 
+4 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 18 z 20 
+producent 
+liczba 
+Meizu 
+2 
+Infinix 
+2 
+Hyundai 
+2 
+Lanix 
+2 
+Sky Devices 
+2 
+SSB PHONES 
+1 
+Verizon Wireless 
+1 
+Bitel 
+1 
+Blu 
+1 
+bq 
+1 
+BQru 
+1 
+Chuwi 
+1 
+Essential Products 
+1 
+Gigaset 
+1 
+Vankyo 
+1 
+Umidigi 
+1 
+Logicom 
+1 
+Tech 4u 
+1 
+Myphone 
+1 
+Itel 
+1 
+KOOLNEE 
+1 
+Kyocera 
+1 
+Leeco 
+1 
+Redmi 
+1 
+Razer 
+1 
+Acer 
+1 
+Nextbook 
+1 
+MyPhone (PL) 
+1 
+Ulefone 
+1 
+ 
+Zadanie 6.3. (0–3)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: tekstów, danych liczbowych 
+[…].    
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji.  
+Zdający:  
+1) projektuje relacyjną bazę danych 
+z zapewnieniem integralności danych;  
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Zasady oceniania rozwiązań zadań 
+Strona 19 z 20 
+2) stosuje metody wyszukiwania 
+i przetwarzania informacji w relacyjnej bazie 
+danych (język SQL);  
+3) tworzy aplikację bazodanową, w tym 
+sieciową, wykorzystującą język zapytań, 
+kwerendy, raporty; zapewnia integralność 
+danych na poziomie pól, tabel, relacji. 
+ 
+Zasady oceniania 
+3 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za nazwy krajów, 
+1 pkt – za wyliczenie wyniku, 
+1 pkt – za zaokrąglenie wyniku. 
+0 pkt – odpowiedź niepoprawna albo brak rozwiązania. 
+ 
+Poprawna odpowiedź 
+nazwa_k 
+liczba 
+SWITZERLAND 
+5,28 
+SLOVENIA 
+4,35 
+IRELAND 
+3,91 
+AUSTRIA 
+3,84 
+CZECH REPUBLIC 
+3,76 
+ 
+ 
+Zadanie 6.4. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: tekstów, danych liczbowych 
+[…].    
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji.  
+Zdający:  
+1) projektuje relacyjną bazę danych 
+z zapewnieniem integralności danych;  
+2) stosuje metody wyszukiwania 
+i przetwarzania informacji w relacyjnej bazie 
+danych (język SQL);  
+3) tworzy aplikację bazodanową, w tym 
+sieciową, wykorzystującą język zapytań, 
+kwerendy, raporty; zapewnia integralność 
+danych na poziomie pól, tabel, relacji. 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Egzamin maturalny z informatyki – termin dodatkowy 2023 r. 
+Strona 20 z 20 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna, w tym: 
+1 pkt – za podanie kodu i nazwy, 
+1 pkt – za podanie liczby krajów. 
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. 
+ 
+Poprawna odpowiedź 
+11935 Galaxy Tab A (2016) 20 
+ 
+ 
+Zadanie 6.5. (0–2)     
+Wymaganie ogólne 
+Wymagania szczegółowe  
+II. Wyszukiwanie, gromadzenie  
+i przetwarzanie informacji z różnych 
+źródeł; opracowywanie za pomocą 
+komputera: tekstów, danych liczbowych 
+[…].    
+2. Wyszukiwanie, gromadzenie, 
+selekcjonowanie, przetwarzanie  
+i wykorzystywanie informacji, współtworzenie 
+zasobów w sieci, korzystanie z różnych źródeł i 
+sposobów zdobywania informacji.  
+Zdający:  
+1) projektuje relacyjną bazę danych 
+z zapewnieniem integralności danych;  
+2) stosuje metody wyszukiwania 
+i przetwarzania informacji w relacyjnej bazie 
+danych (język SQL);  
+3) tworzy aplikację bazodanową, w tym 
+sieciową, wykorzystującą język zapytań, 
+kwerendy, raporty; zapewnia integralność 
+danych na poziomie pól, tabel, relacji. 
+ 
+Zasady oceniania 
+2 pkt – odpowiedź poprawna. 
+1 pkt – lista bez jednego kraju.  
+0 pkt – odpowiedź niepoprawna albo brak rozwiązania. 
+ 
+Poprawna odpowiedź 
+CUBA 
+BAHRAIN 
+ZIMBABWE 
+ 
+ 

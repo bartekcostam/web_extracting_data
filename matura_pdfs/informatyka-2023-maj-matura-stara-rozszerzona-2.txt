@@ -1,0 +1,630 @@
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Układ graficzny 
+© CKE 2022 
+ 
+WYPEŁNIA ZDAJĄCY 
+ 
+ 
+ 
+KOD 
+PESEL 
+                
+ 
+ 
+Egzamin maturalny 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Część II 
+WYPEŁNIA ZDAJĄCY 
+Symbol arkusza  
+EINP-R2-100-2305 
+WYBRANE: 
+ 
+ 
+................................................. 
+(system operacyjny) 
+ 
+................................................. 
+(program użytkowy) 
+ 
+................................................. 
+(środowisko programistyczne) 
+ 
+DATA: 22 maja 2023 r.   
+CZAS TRWANIA: 150 minut  
+LICZBA PUNKTÓW DO UZYSKANIA: 35 
+ 
+Przed rozpoczęciem pracy z arkuszem egzaminacyjnym 
+1. Sprawdź, czy nauczyciel przekazał Ci właściwy arkusz egzaminacyjny, tj. arkusz 
+we właściwej formule, z właściwego przedmiotu na właściwym poziomie. 
+2. Jeżeli przekazano Ci niewłaściwy arkusz – natychmiast zgłoś to nauczycielowi. 
+Nie rozrywaj banderol.  
+3. Jeżeli przekazano Ci właściwy arkusz – rozerwij banderole po otrzymaniu 
+takiego polecenia od nauczyciela. Zapoznaj się z instrukcją na stronie 2. 
+ 
+Miejsce na naklejkę. 
+ 
+Sprawdź, czy kod na naklejce to 
+E-100. 
+ 
+Jeżeli tak – przyklej naklejkę. 
+Jeżeli nie – zgłoś to nauczycielowi. 
+Arkusz zawiera informacje prawnie chronione 
+do momentu rozpoczęcia egzaminu. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 2 z 12 
+EINP-R2_100 
+Instrukcja dla zdającego 
+1. Sprawdź, czy arkusz egzaminacyjny zawiera 12 stron (zadania 4–6) i czy dołączony 
+jest do niego nośnik danych – podpisany DANE. Ewentualny brak zgłoś 
+przewodniczącemu zespołu nadzorującego egzamin.
+2. Na pierwszej stronie oraz na karcie odpowiedzi wpisz swój numer PESEL i przyklej 
+naklejkę z kodem.
+3. Wpisz zadeklarowane (wybrane) przez Ciebie na egzamin: system operacyjny, 
+program użytkowy oraz środowisko programistyczne.
+4. Jeśli rozwiązaniem zadania lub jego części jest program komputerowy, to umieść
+w katalogu (folderze) oznaczonym Twoim numerem PESEL wszystkie utworzone przez 
+siebie pliki w wersji źródłowej.
+5. Jeśli rozwiązaniem zadania lub jego części jest baza danych utworzona
+z wykorzystaniem MySQL(MariaDB), to umieść w katalogu (folderze) oznaczonym 
+Twoim numerem PESEL treści zapytań w języku SQL oraz (przed zakończeniem 
+egzaminu) wyeksportowaną całą bazę w formacie *.sql.
+6. Pliki oddawane do oceny nazwij dokładnie tak, jak polecono w treści zadań, lub zapisz 
+je pod nazwami (wraz z rozszerzeniem zgodnym z zadeklarowanym 
+oprogramowaniem), jakie podajesz w arkuszu egzaminacyjnym. Pliki o innych 
+nazwach nie będą sprawdzane przez egzaminatora.
+7. Przed upływem czasu przeznaczonego na egzamin zapisz w katalogu (folderze) 
+oznaczonym Twoim numerem PESEL ostateczną wersję plików stanowiących 
+rozwiązania zadań.
+8. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym tuszem/atramentem.
+9. Nie wpisuj żadnych znaków w części przeznaczonej dla egzaminatora. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 3 z 12 
+EINP-R2_100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zadania egzaminacyjne są wydrukowane  
+na następnych stronach. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 4 z 12 
+EINP-R2_100 
+Zadanie 4. 
+W pliku slowa.txt zapisano 50 słów o długościach nie większych niż 1000 złożonych 
+z małych liter alfabetu angielskiego.  
+Napisz program(y), który(e) da(dzą) odpowiedzi do poniższych zadań. Odpowiedzi do 
+poszczególnych zadań zapisz – odpowiednio – w plikach wyniki4_1.txt, 
+wyniki4_2.txt i wyniki4_3.txt. 
+Plik przyklad.txt zawiera przykładowe dane spełniające warunki zadania. Odpowiedzi 
+dla danych z tego pliku są podane pod treściami zadań. 
+Zadanie 4.1. (0–4) 
+Słowo nazwiemy WK-słowem, jeśli liczba wystąpień liter w i k w tym słowie jest taka sama. 
+Przykład: 
+Wśród słów: wakacje, wirus, kawa, matura, wykopki 
+WK-słowami są: wakacje, kawa, matura  
+Uwaga: zauważ, że w słowie matura litery w i k występują po 0 razy. 
+Zapisz w pliku wyniki4_1.txt wszystkie słowa z pliku slowa.txt, które są  
+WK-słowami. Każde takie słowo wypisz w oddzielnym wierszu, zachowując kolejność z pliku 
+slowa.txt. 
+Dla pliku przyklad.txt odpowiedzią jest następująca lista: 
+wk 
+wakacje 
+wakacjeachwakacje 
+abecadlo 
+ecowaijnippekiqswogbpznphwomxusaqevzhvtkretilpkquu 
+ekrceicjhhpfopqgrcewzqpctskjpslbwurgxkzdilluwfitfr 
+qtgcwgmbdctpgdwfmgbjdubycidalszpbnaseolwgstwznhadwuikdnlvmsimyqgkickqomanlzyuqk
+vhskxhgihqyzxehhyjbnr 
+hvwbftvexpojohhgapnynaqxsrpvljolhtzzwgdzqhjqucgszongxpplmxzllaahlieihhyyostkpidsmrnn
+ylyroyvkrsmprosg 
+uwlccorhlvfnnuleavntzuqalkrajcsnlwlynncrsmvfejqjvxnntlljxxekaeptexfubclfsarlbkvwhtxzwakd
+hselohpejjty 
+grlpvomqxxmokigdomdyriikuxvwejqkqligrgdlcrrotijjddwopghqziinqmjarannnstqbhlduvynetvsrn
+vbdnrbkahywwbn 
+cwhakacyjewakacjewakackjewwakacjewakacje 
+wakaccajrysewakbiacjxegizwaihkcnurfajcje 
+wakacjewakacjewakacjewaukacjewakacjewakacjewakacjewakacjewakacjewakacjewakacjew
+akacjdewakacjewakacje 
+dmmwszylwwkahyowrjblddukhvkszacyjcowyamezwbmoahrkadrghhcbxljofeykzefqlcrwaaqmy
+kacjuejwsamnkaqskcuzje 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 5 z 12 
+EINP-R2_100 
+Zadanie 4.2. (0–4) 
+Dla każdego słowa z pliku slowa.txt oblicz, ile słów wakacje można ułożyć ze znaków 
+występujących w tym słowie (każdego znaku z tego słowa możesz użyć najwyżej raz).  
+ 
+Przykład: 
+Dla słowa wwwaaaaakkcccjjee odpowiedzią jest 2 (w słowie są trzy litery w i trzy litery c, 
+jednak nie możemy ułożyć trzech słów wakacje, ponieważ mamy do dyspozycji tylko 5 liter a 
+– zamiast sześciu, oraz po dwie j oraz e – zamiast trzech). 
+Dla słowa awkcjcje  odpowiedzią jest 0 (ponieważ brakuje jednego a). 
+ 
+Jako rozwiązanie podaj, zapisany w jednym wierszu pliku wyniki4_2.txt, ciąg 
+pięćdziesięciu liczb rozdzielonych spacjami, w którym i-ta liczba jest równa liczbie słów 
+wakacje, które można wyodrębnić z liter i-tego słowa z pliku slowa.txt. 
+ 
+Dla pliku przyklad.txt odpowiedzią jest: 
+0 0 0 1 2 0 2 2 2 3 0 1 0 0 0 0 1 0 2 0 2 0 2 1 3 1 3 3 2 5 3 
+2 1 3 3 14 13 5 2 4 5 9 70 28 80 39 56 57 25 30 
+ 
+Zadanie 4.3. (0–4) 
+Wakacyjnym słowem nazwiemy słowo otrzymane przez sklejenie z sobą dowolnie wiele razy 
+słowa wakacje. Tak więc wakacyjnymi słowami są słowa: wakacje, wakacjewakacje, 
+wakacjewakacjewakacje itd. Przyjmujemy, że wakacyjnym słowem jest także słowo puste, tj. 
+niezawierające żadnej litery. 
+ 
+Dla każdego słowa z pliku slowa.txt oblicz najmniejszą liczbę liter, które należy z niego 
+wykreślić, by słowo powstałe w ten sposób było wakacyjnym słowem. 
+ 
+Przykłady: 
+1. Dla słowa wakaaaacjee odpowiedzią jest 4, ponieważ można z tego słowa otrzymać dwa 
+słowa wakacyjne:  
+• słowo puste – przez wykreślenie wszystkich 11 liter, 
+• słowo wakacje – przez wykreślenie czterech liter: trzech liter a oraz jednej litery e.  
+2. Dla słowa waktfaczdjeaewasakvgacrje odpowiedzią jest 11. Można z niego otrzymać trzy 
+słowa wakacyjne: słowo puste, słowo wakacje oraz słowo wakacjewakacje. W tym 
+ostatnim przypadku trzeba wykreślić 11 liter, a w pozostałych przypadkach – więcej niż 11 
+liter. 
+3. Dla słowa awkcjcje odpowiedzią jest 8 (w tym przypadku trzeba wykreślić wszystkie litery 
+aby uzyskać słowo puste, które także jest słowem wakacyjnym). 
+ 
+Jako rozwiązanie podaj ciąg pięćdziesięciu liczb, w którym i-ta liczba jest równa minimalnej 
+liczbie liter, które należy wykreślić z i-tego słowa z pliku slowa.txt, by uzyskać słowo 
+wakacyjne. Zapisz wynikowy ciąg w jednym wierszu pliku wyniki4_3.txt, oddzielając 
+liczby spacjami. 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+4.1. 
+4.2. 
+Maks. liczba pkt 
+4 
+4 
+Uzyskana liczba pkt 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 6 z 12 
+EINP-R2_100 
+Dla pliku przyklad.txt odpowiedzią jest: 
+1 2 2 0 3 8 17 27 37 12 50 50 50 50 50 50 50 50 100 100 100 100 
+93 100 93 100 19 19 26 5 19 26 33 19 86 2 9 72 93 79 65 37 566 
+916 503 839 678 678 944 930 
+Do oceny oddajesz: 
+•
+pliki tekstowe wyniki4_1.txt, wyniki4_2.txt i wyniki4_3.txt, zawierające
+odpowiedzi do poszczególnych zadań
+• plik(-i) zawierający(-e) kody źródłowe Twojego(-ich) programu(-ów) o nazwie(-ach):
+.................................................................................................................................. 
+.................................................................................................................................. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 7 z 12 
+EINP-R2_100 
+Zadanie 5. Konfitury owocowe   
+W pliku owoce.txt zapisano informacje o dostawach owoców do przetwórni w okresie od 
+01.05.2020 do 30.09.2020.  
+W każdym wierszu podane są: data dostawy (dd.mm.rrrr), liczba kilogramów dostarczonych 
+malin, liczba kilogramów dostarczonych truskawek i liczba kilogramów dostarczonych 
+porzeczek, oddzielone znakiem tabulacji.  
+Dostawy odbywały się każdego dnia w wymienionym okresie. 
+ 
+Przykład: 
+data  
+dostawa_malin dostawa_truskawek 
+dostawa_porzeczek 
+01.05.2020 
+211  
+ 
+281  
+ 
+ 
+88 
+02.05.2020 
+393  
+ 
+313  
+ 
+ 
+83 
+03.05.2020 
+389  
+ 
+315  
+ 
+ 
+104 
+04.05.2020 
+308  
+ 
+221  
+ 
+ 
+119 
+ 
+Z wykorzystaniem dostępnych narzędzi informatycznych podaj odpowiedzi do poniższych 
+zadań. Odpowiedzi zapisz w pliku wyniki5.txt, a każdą z nich poprzedź numerem 
+odpowiedniego zadania. 
+ 
+Zadanie 5.1. (0–3) 
+Dla każdego miesiąca pracy przetwórni (od maja do września) wykonaj zestawienie liczby 
+dostarczonych kilogramów malin, liczby dostarczonych kilogramów truskawek i liczby 
+dostarczonych kilogramów porzeczek.  
+Na podstawie wykonanego zestawienia utwórz wykres kolumnowy. Pamiętaj o czytelnym 
+opisie wykresu (tytuł, legenda, opisy osi: na osi X – nazwy miesięcy, na osi Y – liczba 
+kilogramów). 
+ 
+Zadanie 5.2. (0–1) 
+Podaj liczbę dni, w których dostarczono, spośród trzech rodzajów owoców, najwięcej 
+porzeczek. 
+ 
+Zadanie 5.3. (0–2) 
+Podaj długość najdłuższego ciągu kolejnych dni, w którym dostawy malin rosły, tzn. 
+w każdym kolejnym dniu dostarczano więcej kilogramów malin niż w dniu poprzednim. Podaj 
+datę, kiedy ten ciąg się rozpoczął, oraz datę, kiedy się zakończył. 
+ 
+Przykład: 
+Dla dostaw malin (w kg): 287, 287, 298, 429, 417, 384,  
+najdłuższy ciąg dni, w których dostawy się zwiększały, ma długość 3. 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+4.3. 
+5.1. 
+5.2. 
+5.3. 
+Maks. liczba pkt 
+4 
+3 
+1 
+2 
+Uzyskana liczba pkt 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 8 z 12 
+EINP-R2_100 
+Informacja do zadań 5.4. i 5.5. 
+Przetwórnia produkuje konfitury: malinowo-truskawkowe, malinowo-porzeczkowe oraz 
+truskawkowo-porzeczkowe (zawsze w proporcji owoców 1:1 oraz z wykorzystaniem 
+maksymalnej dostępnej ilości owoców). Decyzja, jaka konfitura w danym dniu będzie 
+produkowana, zależy od ilości owoców w przetwórni. 
+  Owoce są dostarczane do przetwórni rano, przed rozpoczęciem produkcji. W danym dniu 
+jest produkowany tylko jeden rodzaj konfitur. Do produkcji są brane owoce, których jest 
+najwięcej w przetwórni (dla danych w pliku owoce.txt nie występuje przypadek, gdy ilość 
+różnych owoców jest taka sama). Owoce niewykorzystane do produkcji są przechowywane 
+w chłodni do następnego dnia. W następnym dniu podejmuje się decyzję o produkcji na ten 
+dzień na podstawie łącznej ilości owoców pozostałych z poprzedniego dnia oraz 
+dostarczonych rano.   
+Przykład: 
+Jeżeli 01.05.2020 dostarczono 211 kg malin, 281 kg truskawek i 88 kg porzeczek, to w tym 
+dniu będzie produkowana konfitura malinowo-truskawkowa. Do produkcji wykorzystane 
+zostanie 211 kg malin i 211 kg truskawek. Reszta truskawek i wszystkie porzeczki będą 
+przechowywane w chłodni do następnego dnia.  
+Po dostawie z 02.05.2020 (393 kg malin, 313 kg truskawek i 83 kg porzeczek) w przetwórni 
+będzie 393 kg malin, 383 kg truskawek i 171 kg porzeczek, czyli znowu będzie produkowana 
+konfitura malinowo-truskawkowa. 
+Po uwzględnieniu opisanego powyżej cyklu produkcyjnego oraz danych zapisanych w pliku 
+owoce.txt podaj odpowiedzi do poniższych zadań. 
+Zadanie 5.4. (0–3) 
+Podaj, ile razy, w okresie od 01.05.2020 do 30.09.2020, produkowano konfitury 
+poszczególnych rodzajów. 
+Zadanie 5.5. (0–3) 
+Na wyprodukowanie 1 kg konfitur dwuowocowych potrzeba po 1 kg każdego owocu. 
+Podaj, ile kilogramów konfitur każdego rodzaju wyprodukowano w okresie od 01.05.2020 do 
+30.09.2020. 
+Do oceny oddajesz: 
+•
+plik tekstowy wyniki5.txt zawierający odpowiedzi do poszczególnych zadań.
+Odpowiedź do każdego zadania powinna być poprzedzona jego numerem.
+•
+plik zawierający wykres do zadania 5.1. o nazwie ………………………………………….. 
+•
+plik(i) zawierający(e) komputerową realizację Twoich obliczeń o nazwie(-ach):
+ 
+................................................................................................................................................ 
+ 
+ 
+................................................................................................................................................ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 9 z 12 
+EINP-R2_100 
+Zadanie 6. Gry planszowe 
+Pewien serwis internetowy prowadzi ranking gier planszowych. Baza serwisu została 
+zapisana w trzech plikach. 
+ 
+Plik gry.txt zawiera informacje o grach planszowych. W każdym wierszu zapisano:  
+id_gry  
+ – unikatowy numer gry planszowej 
+nazwa   
+ – tytuł gry planszowej 
+kategoria  – kategorię, do jakiej została zakwalifikowana gra planszowa; każda gra  
+należy tylko do jednej kategorii. 
+Przykład: 
+id_gry 
+nazwa 
+ 
+ 
+ 
+ 
+kategoria 
+1 
+ 
+Wsiasc do Pociagu: Europa 
+familijna 
+2 
+ 
+Pandemia  
+ 
+ 
+ 
+kooperacyjna 
+3 
+ 
+Splendor  
+ 
+ 
+ 
+familijna 
+4 
+ 
+Dixit 
+ 
+ 
+ 
+ 
+familijna 
+5 
+ 
+Dobble 
+ 
+ 
+ 
+ 
+familijna 
+ 
+Plik gracze.txt zawiera informacje o graczach. W każdym wierszu zapisano: 
+id_gracza – unikatowy numer gracza 
+imie   
+ 
+– imię gracza  
+nazwisko  – nazwisko gracza 
+wiek   
+ 
+– wiek gracza. 
+ 
+Przykład: 
+id_gracza imie  
+ 
+nazwisko  
+wiek 
+1 
+ 
+Jozef  
+ 
+Gorecki 
+ 
+29 
+2 
+ 
+Przemysław  
+Mazurek 
+ 
+68 
+3 
+ 
+Cezary  
+ 
+Kaczmarczyk 
+41 
+4 
+ 
+Kornel  
+ 
+Wysocki 
+ 
+72 
+5 
+ 
+Eustachy   
+Gorecki 
+ 
+74 
+ 
+Plik oceny.txt zawiera oceny wystawione grom przez poszczególnych graczy. W każdym 
+wierszu pliku zapisano:  
+id_gry   
+– numer gry planszowej 
+id_gracza  – numer gracza 
+stan   
+ 
+– zawiera jedną z możliwych wartości: posiada, chce kupic, sprzedal, 
+opisującą, czy użytkownik posiada daną grę, czy ją sprzedał lub czy 
+zamierza ją zakupić 
+ocena   
+– zawiera ocenę gry przez gracza, wyrażoną liczbą całkowitą w zakresie od 0  
+do 10. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+5.4. 
+5.5. 
+Maks. liczba pkt 
+3 
+3 
+Uzyskana liczba pkt 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 10 z 12 
+EINP-R2_100 
+Przykład: 
+id_gry 
+id_gracza stan  
+ 
+ocena 
+66 
+ 
+1 
+ 
+posiada 
+ 
+8 
+72 
+ 
+1 
+ 
+chce kupic 
+3 
+79 
+ 
+1 
+ 
+sprzedal  
+8 
+43 
+ 
+2 
+ 
+posiada 
+ 
+9 
+ 
+We wszystkich plikach dane w wierszach są rozdzielone znakami tabulacji, a pierwszy 
+wiersz w każdym pliku jest wierszem nagłówkowym. 
+ 
+Z wykorzystaniem danych zawartych w podanych plikach oraz dostępnych narzędzi 
+informatycznych, podaj odpowiedzi do zadań 6.1.–6.5. Odpowiedzi zapisz w pliku 
+wyniki6.txt, a każdą z nich poprzedź numerem odpowiedniego zadania. 
+ 
+ 
+Zadanie 6.1. (0–1) 
+Podaj tytuł gry, która otrzymała najwięcej ocen. 
+ 
+ 
+Zadanie 6.2. (0–2) 
+Dla każdej gry z kategorii „imprezowa” podaj średnią jej ocen w zaokrągleniu do dwóch 
+miejsc po przecinku.   
+ 
+ 
+Zadanie 6.3. (0–3) 
+Podaj imiona i nazwiska graczy, którzy wystawili co najmniej jedną ocenę oraz posiadają 
+(mają stan „posiada”) tylko gry z kategorii imprezowe („imprezowa”) i nie posiadają gier 
+planszowych z innych kategorii. Wynik posortuj niemalejąco według nazwisk. 
+ 
+ 
+Zadanie 6.4. (0–2) 
+Podaj liczbę graczy, którzy nie posiadają żadnej z ocenianych przez siebie gier (nie mają 
+żadnej gry ze stanem „posiada”), a wystawili co najmniej jedną ocenę. 
+ 
+ 
+Zadanie 6.5. (0–3) 
+W ocenianiu gier planszowych uczestniczą osoby w wieku od 10 do 99 lat. Osoby oceniające 
+gry podzielono na trzy kategorie wiekowe: juniorzy (do 19 lat), seniorzy (od 20 do 49 lat) oraz 
+weterani (od 50 lat). 
+Wykonaj zestawienie, w którym dla każdej kategorii wiekowej podasz największą liczbę ocen 
+wystawionych jednej grze przez użytkowników z tej kategorii wiekowej oraz nazwy gier z tą 
+liczbą ocen.  
+Jeżeli gier, które otrzymały taką samą największą liczbę ocen od użytkowników z danej 
+kategorii wiekowej, jest więcej niż jedna – podaj tytuły ich wszystkich. 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 11 z 12 
+EINP-R2_100 
+Do oceny oddajesz: 
+• plik tekstowy wyniki6.txt, zawierający odpowiedzi do poszczególnych zadań. 
+Odpowiedź do każdego zadania powinna być poprzedzona jego numerem. 
+• plik(i) zawierający(-e) komputerową realizację Twoich obliczeń o nazwie(-ach): 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+6.1. 
+6.2. 
+6.3. 
+6.4. 
+6.5. 
+Maks. liczba pkt 
+1 
+2 
+3 
+2 
+3 
+Uzyskana liczba pkt 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 12 z 12 
+EINP-R2_100 
+BRUDNOPIS (nie podlega ocenie) 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 

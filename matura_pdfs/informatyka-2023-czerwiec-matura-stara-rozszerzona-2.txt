@@ -1,0 +1,443 @@
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+Układ graficzny 
+© CKE 2022 
+ 
+WYPEŁNIA ZDAJĄCY 
+ 
+ 
+ 
+KOD 
+PESEL 
+                
+ 
+ 
+Egzamin maturalny 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Część II 
+WYPEŁNIA ZDAJĄCY 
+Symbol arkusza  
+EINP-R2-100-2306 
+WYBRANE: 
+ 
+ 
+................................................. 
+(system operacyjny) 
+ 
+................................................. 
+(program użytkowy) 
+ 
+................................................. 
+(środowisko programistyczne) 
+ 
+DATA: 16 czerwca 2023 r.  
+ 
+CZAS TRWANIA: 150 minut  
+LICZBA PUNKTÓW DO UZYSKANIA: 35 
+ 
+Przed rozpoczęciem pracy z arkuszem egzaminacyjnym 
+1. Sprawdź, czy nauczyciel przekazał Ci właściwy arkusz egzaminacyjny, tj. arkusz 
+we właściwej formule, z właściwego przedmiotu na właściwym poziomie. 
+2. Jeżeli przekazano Ci niewłaściwy arkusz – natychmiast zgłoś to nauczycielowi. 
+Nie rozrywaj banderol.  
+3. Jeżeli przekazano Ci właściwy arkusz – rozerwij banderole po otrzymaniu 
+takiego polecenia od nauczyciela. Zapoznaj się z instrukcją na stronie 2. 
+ 
+Miejsce na naklejkę. 
+ 
+Sprawdź, czy kod na naklejce to 
+E-100. 
+ 
+Jeżeli tak – przyklej naklejkę. 
+Jeżeli nie – zgłoś to nauczycielowi. 
+Arkusz zawiera informacje prawnie chronione 
+do momentu rozpoczęcia egzaminu. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 2 z 10 
+EINP-R2_100 
+ 
+Instrukcja dla zdającego 
+ 
+1. Sprawdź, czy arkusz egzaminacyjny zawiera 10 stron i czy dołączony jest do niego 
+nośnik danych – podpisany DANE. Ewentualny brak zgłoś przewodniczącemu zespołu 
+nadzorującego egzamin.  
+2. Na pierwszej stronie arkusza oraz na karcie odpowiedzi wpisz swój numer PESEL 
+i przyklej naklejkę z kodem. 
+3. Wpisz zadeklarowane (wybrane) przez Ciebie na egzamin: system operacyjny, 
+program użytkowy oraz środowisko programistyczne. 
+4. Jeśli rozwiązaniem zadania lub jego części jest program komputerowy, to umieść 
+w katalogu (folderze) oznaczonym Twoim numerem PESEL wszystkie utworzone przez 
+siebie pliki w wersji źródłowej. 
+5. Jeśli rozwiązaniem zadania lub jego części jest baza danych utworzona 
+z wykorzystaniem MySQL (MariaDB), to umieść w katalogu (folderze) oznaczonym 
+Twoim numerem PESEL treści zapytań w języku SQL oraz (przed zakończeniem 
+egzaminu) wyeksportowaną całą bazę w formacie *.sql.  
+6. Pliki oddawane do oceny nazwij dokładnie tak, jak polecono w treści zadań, lub zapisz 
+je pod nazwami (wraz z rozszerzeniem zgodnym z zadeklarowanym 
+oprogramowaniem), jakie podajesz w arkuszu egzaminacyjnym. Pliki o innych 
+nazwach nie będą sprawdzane przez egzaminatora. 
+7. Przed upływem czasu przeznaczonego na egzamin zapisz w katalogu (folderze) 
+oznaczonym Twoim numerem PESEL ostateczną wersję plików stanowiących 
+rozwiązania zadań. 
+8. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym tuszem/atramentem. 
+9. Nie wpisuj żadnych znaków w części przeznaczonej dla egzaminatora. 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 3 z 10 
+EINP-R2_100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zadania egzaminacyjne są wydrukowane  
+na następnych stronach. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 4 z 10 
+EINP-R2_100 
+Zadanie 4. Anagram binarny 
+W pliku anagram.txt znajduje się 1000 wierszy. Każdy wiersz zawiera liczbę binarną, 
+składającą się z maksymalnie 14 cyfr: 0 lub 1. Każda liczba zaczyna się jedynką i żadna 
+z nich się nie powtarza. 
+Napisz program(y), który(-e) da(-dzą) odpowiedzi do podanych zadań. Odpowiedzi do 
+zadań zapisz w pliku wyniki4.txt, a każdą z nich poprzedź numerem odpowiedniego 
+zadania. 
+Uwaga: plik przyklad.txt zawiera 100 wierszy przykładowych danych spełniających 
+warunki zadania. Odpowiedzi dla danych z pliku przyklad.txt są podane pod treściami 
+zadań. 
+ 
+Zadanie 4.1. (0–2) 
+Liczbę binarną nazywamy zrównoważoną, gdy zawiera tyle samo zer i jedynek, natomiast  
+prawie zrównoważoną, gdy liczba jedynek różni się od liczby zer o 1. 
+Przykład: 
+Liczba 101010 jest liczbą zrównoważoną. 
+Liczba 1011010 jest liczbą prawie zrównoważoną. 
+Podaj, ile jest liczb binarnych zrównoważonych oraz ile jest liczb binarnych prawie 
+zrównoważonych w pliku anagram.txt. 
+Dla danych z pliku przyklad.txt prawidłową odpowiedzią jest: 
+21 
+15 
+ 
+Zadanie 4.2. (0–3) 
+Anagramy cyfrowe to liczby utworzone z tego samego zestawu cyfr w różnych 
+kolejnościach. Przy tym pierwsza cyfra liczby nie może być równa zero. 
+Przykład: 
+Z liczby 209 zapisanej dziesiętnie można utworzyć 4 anagramy: 209, 290, 902, 920. 
+Z liczby dwójkowej 11100 można utworzyć 6 różnych anagramów: 10011, 10101, 10110, 
+11001, 11010, 11100. 
+Znajdź wszystkie takie liczby dwójkowe 8-cyfrowe w pliku anagram.txt, z których można 
+utworzyć największą liczbę anagramów. Wypisz te liczby w kolejności, w jakiej występują 
+w pliku anagram.txt. 
+Dla danych z pliku przyklad.txt prawidłową odpowiedzią jest: 
+10001011 
+10111000 
+10100111 
+11111000 
+10011100 
+11100011 
+10111010 
+10100011 
+10011010 
+10110001 
+11011010 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 5 z 10 
+EINP-R2_100 
+Zadanie 4.3. (0–2) 
+Podaj największą wartość bezwzględną różnicy między sąsiednimi liczbami zapisanymi 
+w pliku anagram.txt (to jest liczbami zapisanymi w sąsiednich wierszach pliku np. 2 i 3 
+wierszu, 3 i 4 wierszu itd.). Tę wartość podaj w zapisie binarnym. 
+ 
+Dla danych z pliku przyklad.txt prawidłową odpowiedzią jest: 
+1110001010 
+ 
+Zadanie 4.4. (0–4) 
+Zamień wszystkie liczby binarne z pliku anagram.txt na ich odpowiedniki w systemie 
+dziesiętnym. Następnie spośród otrzymanych liczb dziesiętnych: 
+a) podaj, ile jest takich, w których nie występuje cyfra zero  
+b) podaj liczbę, która ma największą sumę różnych cyfr (jeśli liczb, które mają tę samą 
+największą sumę różnych cyfr, jest więcej niż jedna – podaj tę, która występuje jako 
+pierwsza w pliku z danymi). 
+ 
+Przykład: 
+Dla liczby 20462 suma jej różnych cyfr to 12 (2+0+4+6), dla liczby 344 suma różnych cyfr to 
+7. 
+ 
+Dla danych z pliku przyklad.txt prawidłową odpowiedzią jest: 
+81 
+895 
+ 
+ 
+Do oceny oddajesz:  
+• plik tekstowy wyniki4.txt, zawierający odpowiedzi do poszczególnych zadań 
+(odpowiedź do każdego zadania powinna być poprzedzona jego numerem) 
+• plik(i) zawierający(-e) kody źródłowe Twojego(-ich) programu(-ów) o nazwie(-ach) 
+odpowiednio:  
+zadanie 4.1. ………………………………………………………  
+zadanie 4.2. ………………………………………………………  
+zadanie 4.3. ……………………………………………………… 
+zadanie 4.4. ……………………………………………………… 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 6 z 10 
+EINP-R2_100 
+Zadanie 5. Hurtownia ogrodnicza   
+Hurtownia ogrodnicza „Muszka” jest czynna od poniedziałku do soboty i prowadzi 
+sprzedaż drzewek owocowych. Największą popularnością cieszą się jabłonie i wiśnie. 
+Rozważamy sprzedaż tych drzewek w okresie od 1 kwietnia 2022 roku do 31 października 
+2022 roku.  
+W dniu rozpoczęcia sprzedaży, tj. w piątek 1 kwietnia 2022 roku, stan początkowy drzewek 
+w hurtowni wynosił: 100 drzewek jabłoni i 75 drzewek wiśni.  
+Dostawa drzewek odbywa się zawsze w czwartki rano przed otwarciem hurtowni 
+(i rozpoczęciem sprzedaży). Dostarczanych jest wtedy 50 sztuk jabłoni i 25 sztuk wiśni. 
+Dodatkowo, jeżeli łączna liczba jabłoni sprzedanych w ostatni piątek i sobotę 
+przekroczy 25 sztuk, to w poniedziałek przed otwarciem hurtowni dowożonych jest 15 
+sztuk jabłoni. 
+Każdego dnia pracy (poza niedzielą) w hurtowni sprzedawane jest 30% stanu jabłoni oraz 
+20% stanu wiśni z rana tego dnia tuż przed rozpoczęciem sprzedaży (po ewentualnej 
+dostawie). Te liczby zaokrąglamy w górę do liczby całkowitej. 
+W poniedziałki rano, przed rozpoczęciem sprzedaży i przed ewentualną dostawą nowych 
+drzewek jabłoni, 5% drzewek jabłoni w hurtowni nie nadaje się do dalszej sprzedaży 
+i stanowi odpad. Tę liczbę zaokrąglamy w górę do liczby całkowitej. 
+ 
+Z wykorzystaniem dostępnych narzędzi informatycznych podaj odpowiedzi do poniższych 
+zadań. Odpowiedzi zapisz w pliku wynik5.txt, a każdą odpowiedź poprzedź numerem 
+oznaczającym to zadanie. 
+Uwaga:  
+• W niedziele hurtownia nie prowadzi sprzedaży.  
+• W swoich obliczeniach pomiń święta, tj. przyjmij, że hurtownia jest czynna zawsze od 
+poniedziałku do soboty. 
+• W całym okresie liczba drzewek jabłoni, które stanowią odpad, jest równa 34. 
+ 
+Z wykorzystaniem dostępnych narzędzi informatycznych podaj odpowiedzi do podanych 
+zadań. Odpowiedzi zapisz w pliku wyniki5.txt, a każdą z nich poprzedź numerem 
+odpowiedniego zadania. 
+ 
+ 
+Zadanie 5.1. (0–2) 
+Podaj, ile razy do hurtowni dowożono drzewka jabłoni, a ile razy dowożono drzewka wiśni. 
+ 
+Zadanie 5.2. (0–3) 
+Sporządź wykres liniowy porównujący sprzedaż drzewek jabłoni i wiśni w okresie od 01 lipca 
+2022 do 31 sierpnia 2022. Pamiętaj o tytule wykresu i odpowiednim opisie osi. 
+ 
+Zadanie 5.3. (0–2) 
+Podaj datę, kiedy po raz pierwszy sprzedaż drzewek wiśni spadła poniżej 3 sztuk. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 7 z 10 
+EINP-R2_100 
+Zadanie 5.4. (0–3) 
+Utwórz zestawienie, w którym podasz, ile było dni, w których sprzedaż jabłoni była: 
+• mniejsza niż 10 drzewek  
+• od 10 drzewek włącznie, ale poniżej 20 drzewek  
+• 20 drzewek lub większa.  
+W zestawieniu uwzględnij również niedziele (kiedy sprzedaż równa jest 0). 
+ 
+Zadanie 5.5. (0–2) 
+Właściciel hurtowni chce zaoszczędzić na dowozie drzewek i dowozić drzewka jabłoni tylko 
+w czwartki (jednak nigdy nie może zabraknąć tych drzewek – stan nie może być równy 0). 
+Podaj, jaki powinien być maksymalny stan początkowy drzewek jabłoni, by (zgodnie 
+z podanymi wcześniej zasadami dostaw) nie trzeba było ich dowozić nigdy w poniedziałki. 
+ 
+ 
+Do oceny oddajesz: 
+• plik tekstowy wyniki5.txt zawierający odpowiedzi do poszczególnych zadań. 
+Odpowiedź do każdego zadania powinna być poprzedzona jego numerem. 
+• plik zawierający wykres do zadania 5.2. o nazwie: ………………………………………… 
+• plik(i) zawierający(e) komputerową realizację Twoich obliczeń o nazwie(-ach): 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 8 z 10 
+EINP-R2_100 
+Zadanie 6. Instalacje 
+W bazie danych firmy X zawarte są informacje o instalacjach pewnej aplikacji, 
+o urządzeniach, na których ta aplikacja została zainstalowana, oraz o krajach, w których 
+przeprowadzono instalację.  
+Dane zgromadzono w plikach tekstowych: kraje.txt, instalacje.txt oraz 
+urzadzenia.txt. Pierwszy wiersz każdego z plików jest wierszem nagłówkowym, 
+a dane w wierszach są rozdzielone znakami tabulacji.  
+Plik o nazwie kraje.txt zawiera informacje o krajach, w których instalowano aplikację. 
+W każdym wierszu pliku znajdują się następujące dane:  
+kod_k   
+– kod kraju (napis dwuznakowy) 
+nazwa_k  
+– nazwa kraju (napis do 50 znaków) 
+ludnosc_k  – ludność kraju (liczba całkowita do 10 cyfr określająca liczbę ludności). 
+Przykład: 
+kod_k 
+nazwa_k 
+ 
+ 
+ 
+ludnosc_k 
+AN 
+ 
+NETHERLANDS ANTILES 
+ 
+227049 
+CR 
+ 
+COSTA RICA 
+ 
+ 
+5003393 
+DZ 
+ 
+ALGERIA 
+ 
+ 
+ 
+42545964 
+ 
+Plik o nazwie urzadzenia.txt zawiera informacje o urządzeniach, na których może być 
+instalowana aplikacja. W każdym wierszu pliku znajdują się następujące informacje:  
+kod_u   
+ 
+– unikatowy kod (liczba całkowita co najwyżej 5-cyfrowa)  
+nazwa_u    
+– nazwa urządzenia (napis do 80 znaków)  
+producent_u   – producent urządzenia (napis do 35 znaków) 
+typ_u   
+ 
+– typ urządzenia (napis: Tablet, Phone lub PC). 
+Uwaga: nazwa urządzenia nie jest unikatowa – w tabeli mogą występować dwa lub więcej 
+urządzenia o tej samej nazwie. 
+Przykład: 
+kod_u 
+ nazwa_u 
+ 
+producent_u 
+typ_u 
+12410 
+PLATINUM_E5 
+Sky Devices 
+Phone 
+6549  
+Ilium L1120 
+Lanix 
+ 
+Phone 
+ 
+ 
+Plik o nazwie instalacje.txt zawiera informacje o instalacjach aplikacji. W każdym 
+wierszu pliku znajdują się następujące informacje:  
+data_i   
+– data instalacji (w formacie dd.mm.rrrrr) 
+kod_u   
+– kod urządzenia, na którym wykonano instalację (liczba całkowita co 
+najwyżej 5-cyfrowa) 
+kod_k  
+– kod kraju, w którym znajdowało się to urządzenie (napis dwuznakowy). 
+Uwaga: kod_u nie oznacza pojedynczego egzemplarza urządzenia, a tylko wskazuje jego 
+rodzaj – to znaczy, że na urządzeniach o tym samym kodzie może być wykonanych wiele 
+instalacji. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 9 z 10 
+EINP-R2_100 
+Przykład: 
+data_i   
+ 
+kod_k 
+kod_u 
+01.03.2019 
+AM 
+ 
+145 
+01.03.2019 
+AR 
+ 
+804 
+01.03.2019 
+AT 
+ 
+12632 
+ 
+Z wykorzystaniem danych zawartych w podanych plikach oraz dostępnych narzędzi 
+informatycznych, podaj odpowiedzi do zadań 6.1.–6.5. Odpowiedzi zapisz w pliku 
+wyniki6.txt, a każdą z nich poprzedź numerem odpowiedniego zadania. 
+ 
+Zadanie 6.1. (0–2)  
+Dla każdego typu urządzenia podaj liczbę instalacji aplikacji na tym typie urządzenia. 
+ 
+Zadanie 6.2. (0–3) 
+Wykonaj zestawienie, w którym dla każdego producenta urządzenia podasz liczbę instalacji 
+przeprowadzonych na urządzeniach tego producenta w lutym 2019. Wynik posortuj 
+nierosnąco według liczby instalacji.  
+ 
+Zadanie 6.3. (0–3) 
+Podaj nazwy pięciu krajów w których przeprowadzono najwięcej instalacji w przeliczeniu na 
+1 000 000 mieszkańców, oraz podaj liczby tych instalacji.  
+Dla każdego z tych pięciu krajów podaj liczbę instalacji na 1 000 000 mieszkańców 
+z dokładnością do dwóch miejsc po przecinku. 
+Uwaga: pomiń kraje, w których jest mniej niż milion mieszkańców. 
+ 
+Zadanie 6.4. (0–2) 
+Podaj kod oraz nazwę urządzenia typu Tablet, na którym zainstalowano aplikację 
+w największej liczbie krajów. Podaj także liczbę krajów, w których instalowano aplikację na 
+tym urządzeniu. 
+ 
+Zadanie 6.5. (0–2) 
+Podaj nazwy krajów, w których nie wykonano ani jednej instalacji na urządzeniach typu 
+„Phone”.  
+ 
+Do oceny oddajesz: 
+• plik tekstowy wyniki6.txt zawierający odpowiedzi do poszczególnych zadań 
+(odpowiedź do każdego zadania powinna być poprzedzona jego numerem) 
+• plik(i) zawierający(-e) komputerową realizację Twoich obliczeń o nazwie(-ach): 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 10 z 10 
+EINP-R2_100 
+BRUDNOPIS (nie podlega ocenie) 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 

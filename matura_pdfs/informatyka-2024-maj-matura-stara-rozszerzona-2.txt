@@ -1,0 +1,503 @@
+ 
+Układ graficzny 
+© CKE 2022 
+ 
+WYPEŁNIA ZDAJĄCY 
+ 
+ 
+ 
+KOD 
+PESEL 
+                
+ 
+ 
+Egzamin maturalny 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Część II 
+WYPEŁNIA ZDAJĄCY 
+Symbol arkusza  
+EINP-R2-100-2405 
+WYBRANE: 
+ 
+ 
+................................................. 
+(system operacyjny) 
+ 
+................................................. 
+(program użytkowy) 
+ 
+................................................. 
+(środowisko programistyczne) 
+ 
+DATA: 22 maja 2024 r.   
+CZAS TRWANIA: 150 minut  
+LICZBA PUNKTÓW DO UZYSKANIA: 35 
+ 
+Przed rozpoczęciem pracy z arkuszem egzaminacyjnym 
+1. Sprawdź, czy nauczyciel przekazał Ci właściwy arkusz egzaminacyjny, tj. arkusz 
+we właściwej formule, z właściwego przedmiotu na właściwym poziomie. 
+2. Jeżeli przekazano Ci niewłaściwy arkusz – natychmiast zgłoś to nauczycielowi. 
+Nie rozrywaj banderol.  
+3. Jeżeli przekazano Ci właściwy arkusz – rozerwij banderole po otrzymaniu 
+takiego polecenia od nauczyciela. Zapoznaj się z instrukcją na stronie 2. 
+ 
+Miejsce na naklejkę. 
+ 
+Sprawdź, czy kod na naklejce to 
+E-100. 
+ 
+Jeżeli tak – przyklej naklejkę. 
+Jeżeli nie – zgłoś to nauczycielowi. 
+Arkusz zawiera informacje prawnie chronione 
+do momentu rozpoczęcia egzaminu. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 2 z 10 
+EINP-R2_100 
+ 
+Instrukcja dla zdającego 
+ 
+1. Sprawdź, czy arkusz egzaminacyjny zawiera 10 stron (zadania 4–6) i czy dołączony 
+jest do niego nośnik danych – podpisany DANE. Ewentualny brak zgłoś 
+przewodniczącemu zespołu nadzorującego egzamin.  
+2. Na pierwszej stronie oraz na karcie odpowiedzi wpisz swój numer PESEL i przyklej 
+naklejkę z kodem. 
+3. Wpisz zadeklarowane (wybrane) przez Ciebie na egzamin: system operacyjny, 
+program użytkowy oraz środowisko programistyczne. 
+4. Jeśli rozwiązaniem zadania lub jego części jest program komputerowy, to umieść 
+w katalogu (folderze) oznaczonym Twoim numerem PESEL wszystkie utworzone przez 
+siebie pliki w wersji źródłowej. 
+5. Jeśli rozwiązaniem zadania lub jego części jest baza danych utworzona 
+z wykorzystaniem MySQL(MariaDB), to umieść w katalogu (folderze) oznaczonym 
+Twoim numerem PESEL treści zapytań w języku SQL oraz (przed zakończeniem 
+egzaminu) wyeksportowaną całą bazę w formacie *.sql.  
+6. Pliki oddawane do oceny nazwij dokładnie tak, jak polecono w treści zadań, lub zapisz 
+je pod nazwami (wraz z rozszerzeniem zgodnym z zadeklarowanym 
+oprogramowaniem), jakie podajesz w arkuszu egzaminacyjnym. Pliki o innych 
+nazwach nie będą sprawdzane przez egzaminatora. 
+7. Przed upływem czasu przeznaczonego na egzamin zapisz w katalogu (folderze) 
+oznaczonym Twoim numerem PESEL ostateczną wersję plików stanowiących 
+rozwiązania zadań. 
+8. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym tuszem/atramentem. 
+9. Nie wpisuj żadnych znaków w części przeznaczonej dla egzaminatora. 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 3 z 10 
+EINP-R2_100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zadania egzaminacyjne są wydrukowane  
+na następnych stronach. 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 4 z 10 
+EINP-R2_100 
+Zadanie 4. 
+W pliku plansza.txt zapisano położenie statków na planszy o wymiarach 100x100, tzn. 
+plik zawiera 100 wierszy, w każdym wierszu znajduje się 100 cyfr (0 lub 1) rozdzielonych 
+spacjami. Zera to pola bez statków, jedynki to pola, na których są statki. Wśród statków 
+wyróżnia się jednomasztowce (jedynka otoczona ze wszystkich stron zerami lub 
+krawędziami planszy) i dwumasztowce (dwie jedynki obok siebie w poziomie lub w pionie 
+otoczone zerami lub krawędziami planszy).  
+Statki nie mogą się stykać ze sobą wierzchołkami ani bokami. 
+ 
+Przykłady: 
+ 
+ 
+ 
+ 
+ 
+ 
+0 0 0 0 
+0 1 0 0 
+0 0 0 0 
+0 0 1 0 
+jednomasztowce 
+ 
+ 
+ 
+ 
+ 
+0 0 0 0 0 0 
+0 1 0 1 1 0 
+0 1 0 0 0 0 
+dwumasztowce 
+ 
+Napisz program(y), który(-e) da(dzą) odpowiedzi do poniższych zadań. Odpowiedzi zapisz 
+w pliku wyniki4.txt, a każdą z nich poprzedź numerem odpowiedniego zadania. 
+ 
+Do dyspozycji masz plik plansza_przyklad.txt, w którym zapisano położenie statków 
+na planszy o wymiarach 10x10. Odpowiedzi dla tego pliku podane są w treściach zadań. 
+ 
+ 
+Zadanie 4.1. (0–3) 
+Podaj liczbę pól, na których można jeszcze umieścić jednomasztowce tzn. takich, które 
+zawierają 0 i nie stykają się krawędziami lub wierzchołkami z polami, na których są już statki.  
+ 
+Odpowiedź dla danych z pliku plansza_przyklad.txt: 11. 
+ 
+Zadanie 4.2. (0–3) 
+Podaj liczbę par jednomasztowców, położonych symetrycznie względem przekątnej 
+biegnącej od lewego górnego rogu do prawego dolnego rogu planszy. 
+ 
+Uwaga: nie zliczaj statków leżących na przekątnej. 
+ 
+Odpowiedź dla danych z pliku plansza_przyklad.txt to 2. 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 5 z 10 
+EINP-R2_100 
+Zadanie 4.3. (0–3) 
+Podaj liczbę dwumasztowców na planszy. 
+ 
+Odpowiedź dla danych z pliku plansza_przyklad.txt: 7 
+ 
+ 
+Zadanie 4.4. (0–3) 
+Podaj liczbę jednomasztowców oraz liczbę dwumasztowców, których chociaż jedno pole leży 
+na jednej z dwóch głównych (najdłuższych) przekątnych planszy. 
+ 
+Odpowiedź dla danych z pliku plansza_przyklad.txt:  
+1 
+3 
+(1 jednomasztowiec, 3 dwumasztowce – w tym 1 na jednej przekątnej i 1 na drugiej i 1 na 
+obu) 
+ 
+ 
+ 
+Do oceny oddajesz: 
+• plik tekstowy wyniki4.txt, zawierający odpowiedzi do poszczególnych zadań.  
+• Plik(i) zawierający(-e) komputerową realizację Twoich rozwiązań o nazwie(-ach) 
+(uwaga: brak tego(tych) pliku(-ów) jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+.................................................................................................................................. 
+.................................................................................................................................. 
+ 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+4.1. 
+4.2. 
+4.3. 
+4.4. 
+Maks. liczba pkt 
+3 
+3 
+3 
+3 
+Uzyskana liczba pkt 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 6 z 10 
+EINP-R2_100 
+Zadanie 5. Hurtownia   
+Pewna hurtownia sprzedaje jabłka. W pliku jablka.txt znajduje się 2500 wierszy 
+z danymi dotyczącymi sprzedaży jabłek od 3 stycznia 2022 roku do 31 grudnia 2022 roku. 
+W każdym wierszu podane są dane opisujące jedną transakcję sprzedaży, oddzielone 
+pojedynczymi znakami tabulacji:  
+• data sprzedaży zapisana w formacie rrrr-mm-dd  
+• nazwa odmiany jabłka 
+• kod, który określa, czy odmiana jest: L – letnia, J – jesienna czy Z – zimowa 
+• numer NIP klienta (13-znakowy tekst) 
+• liczba kilogramów sprzedanego towaru.  
+Fragment pliku jablka.txt:  
+2022-01-03 
+Jonagold  
+Z 
+128-29-15-591 470 
+2022-01-03 
+Jonagold  
+Z 
+192-09-72-275 410 
+2022-01-03 
+Jonagored  
+Z 
+140-36-11-559 242 
+Cena sprzedaży jednego kilograma jabłek zależy od odmiany jabłek. W pliku cennik.txt 
+jest podana cena w złotych 1 kg jabłek każdej odmiany. 
+Fragment pliku cennik.txt:  
+Alwa  
+2,9 
+Antonowka 3,2 
+Cortland 3,2 
+ 
+Z wykorzystaniem powyższych danych oraz dostępnych narzędzi informatycznych wykonaj 
+podane zadania. Wyniki zapisz w pliku tekstowym wyniki5.txt. Odpowiedź do każdego 
+zadania poprzedź numerem tego zadania. 
+  
+Zadanie 5.1. (0–2) 
+Dla każdego dnia roku 2022, w którym hurtowania sprzedawała jabłka, oblicz liczbę 
+sprzedanych kilogramów owoców tego dnia. Znajdź najdłuższy ciąg kolejnych dni, w których 
+sprzedaż rosła (tzn. w każdym kolejnym dniu, w którym hurtownia była otwarta, sprzedawano 
+więcej jabłek niż w dniu poprzednim). Podaj datę, kiedy ten ciąg się rozpoczął, datę kiedy się 
+zakończył, oraz liczby sprzedanych kilogramów jabłek w tych dniach. 
+Przykład: dla sprzedaży (w kg): 287, 287, 298, 429, 417, 384 najdłuższy ciąg, w którym  
+sprzedaż się zwiększała zaczyna się od liczby 287 i kończy na 429. 
+Uwaga: liczymy kolejne dni sprzedaży, tj. jeśli hurtownia byłaby zamknięta niedzielę, to 
+poniedziałek traktujemy jako kolejny dzień sprzedaży po sobocie (i zaliczamy do ciągu).  
+ 
+Zadanie 5.2. (0–2) 
+Dla każdego klienta policz, ile kupił on łącznie (we wszystkich swoich transakcjach) 
+kilogramów jabłek odmian zimowych. Podaj numery NIP trzech klientów, którzy kupili 
+najwięcej jabłek odmian zimowych (Z), oraz podaj dla każdego z nich liczbę kg jabłek przez 
+nich kupionych.  
+ 
+Zadanie 5.3. (0–2) 
+Przychód z pojedynczej sprzedaży to cena sprzedaży pomnożona przez liczbę kilogramów. 
+Podaj całkowity przychód hurtowni uzyskany w całym okresie. Podaj nazwę odmiany jabłek, 
+która dała największy przychód. 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 7 z 10 
+EINP-R2_100 
+Zadanie 5.4. (0–3) 
+Wykonaj zestawienie, w którym dla każdego miesiąca roku 2022 podasz nazwę najbardziej 
+popularnej odmiany w tym miesiącu, czyli takiej, której w danym miesiącu sprzedano 
+najwięcej. 
+Na podstawie wykonanego zestawienia utwórz wykres kolumnowy ilustrujący wielkości 
+sprzedaży najpopularniejszych odmian jabłek w poszczególnych miesiącach.  
+Pamiętaj o czytelnym opisie wykresu – na osi X umieść dla każdego miesiąca jego nazwę 
+połączoną z nazwą najbardziej popularnej odmiany w tym miesiącu, dodaj opis osi Y i tytuł 
+wykresu. 
+ 
+Zadanie 5.5. (0–3) 
+Hurtownia ma system premiowania klientów hurtowych. Klient otrzymuje przy zakupie rabat, 
+którego wysokość zależy od łącznej ilości jabłek zakupionych do tej pory przez tego klienta, 
+wliczając w to jabłka zakupione w bieżącej transakcji.  
+Wysokość rabatu za każdy kilogram w bieżącej transakcji wynosi:  
+• 5 gr, jeśli klient dotychczas zakupił co najmniej 15 000 kg, ale mniej niż 20 000 kg  
+• 10 gr, jeśli klient dotychczas zakupił co najmniej 20 000 kg.  
+Podaj, w ilu transakcjach hurtownia udzieliła rabatu, oraz podaj łączną wartość tych rabatów 
+w złotych. 
+Przykład: 
+Załóżmy, że przed 1.04.2022 klient z NIP 128-29-15-591 zakupił łącznie 10 000 kg 
+jabłek, klient 192-09-72-275 nabył 14 900 kg, a klient 140-36-11-559 – kupił 19 900 
+kg. Wtedy dla przykładowych danych 1.04.2022: 
+2022-04-01 
+Jonagold  
+Z 
+128-29-15-591 470 
+2022-04-01 
+Jonagold  
+Z 
+192-09-72-275 410 
+2022-04-01 
+Jonagored  
+Z 
+140-36-11-559 242 
+• pierwszy klient, po dokonaniu transakcji 1.04.2022, będzie miał już 10 470 kg 
+zakupionych jabłek i dla tej transakcji jeszcze nie należy się rabat 
+• drugi klient, po dokonaniu transakcji 1.04.2022, będzie miał już 15 310 kg zakupionych 
+jabłek, czyli podczas tej transakcji otrzyma 5 gr rabatu na każdy kilogram kupowanych 
+tego dnia jabłek (5 gr * 410 = 20,50 zł  rabatu) 
+• trzeci klient, po dokonaniu transakcji 1.04.2022, będzie miał już 20 142 kg zakupionych 
+jabłek i podczas tej transakcji otrzyma 10 gr rabatu za każdy kilogram (10 gr * 242 =  
+24,20 zł rabatu). 
+Do oceny oddajesz: 
+• plik tekstowy wyniki5.txt zawierający odpowiedzi do poszczególnych zadań. 
+Odpowiedź do każdego zadania powinna być poprzedzona jego numerem. 
+• plik zawierający wykres do zadania 5.4. o nazwie ………………………………………….. 
+• plik(i) zawierający(e) komputerową realizację Twoich obliczeń o nazwie(-ach) 
+(uwaga: brak tego(tych) pliku(-ów) jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+................................................................................................................................................ 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+5.1. 
+5.2. 
+5.3. 
+5.4. 
+5.5. 
+Maks. liczba pkt 
+2 
+2 
+2 
+3 
+3 
+Uzyskana liczba pkt 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 8 z 10 
+EINP-R2_100 
+Zadanie 6. Rejestr wykroczeń 
+W trzech plikach tekstowych o nazwach: kierowcy.txt, taryfikator.txt, 
+rejestr.txt, zapisano dane związane z przekroczeniem dozwolonych prędkości 
+pojazdów na pewnej trasie w okresie 2023-01-01 – 2023-12-30 (wszystkie dane są fikcyjne 
+i wygenerowane na potrzeby zadania). 
+Pierwszy wiersz każdego z plików jest wierszem nagłówkowym, a dane w wierszach 
+rozdzielono znakiem średnika. 
+ 
+Plik o nazwie kierowcy.txt zawiera informacje o 1000 osobach będących właścicielami 
+samochodów. W każdym wierszu znajduje się:  
+IdOsoby  
+  
+ – identyfikator kierowcy  
+Imie   
+ 
+ – imię  
+Nazwisko   
+ – nazwisko  
+NrRejestracyjny – numer rejestracyjny samochodu. 
+  
+Przykład:  
+IdOsoby;Imie;Nazwisko;NrRejestracyjny 
+1;Echo;Ayala;FVX4190 
+2;Nolan;Stein;DUG5882 
+3;Lee;Joseph;TBG6984 
+ 
+Plik o nazwie taryfikator.txt zawiera  informacje o 6 rodzajach wykroczeń 
+związanych z przekroczeniem prędkości. W każdym wierszu znajdują się:  
+IdWykroczenia   – identyfikator wykroczenia   
+Wykroczenie  
+– opis wykroczenia 
+Punkty  
+ 
+– liczba punktów karnych za dane wykroczenie 
+Kwota  
+ 
+– kwota mandatu, jaką należy zapłacić za to wykroczenie. 
+ 
+Przykład: 
+IdWykroczenia;Wykroczenie;Punkty;Kwota 
+1;Przekroczenie predkosci do 10 km/h;0;50 
+2;Przekroczenie predkosci od 11 do 20 km/h;2;100 
+3;Przekroczenie predkosci od 21 do 30 km/h;4;200 
+ 
+Plik o nazwie rejestr.txt zawiera 5000 zarejestrowanych wykroczeń związanych 
+z przekroczeniem prędkości. W każdym wierszu znajdują się:  
+IdZdarzenia   
+– identyfikator zdarzenia   
+Data   
+ 
+– data zdarzenia w formacie rrrr-mm-dd  
+IdOsoby     
+– identyfikator kierowcy   
+IdWykroczenia   – identyfikator wykroczenia. 
+ 
+Przykład: 
+IdZdarzenia;Data;IdOsoby;IdWykroczenia 
+1;2023-01-01;617;1 
+2;2023-01-01;956;4 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 9 z 10 
+EINP-R2_100 
+Z wykorzystaniem danych zawartych w podanych plikach oraz dostępnych narzędzi 
+informatycznych, podaj odpowiedzi do zadań 6.1.–6.5. Odpowiedzi zapisz w pliku 
+wyniki6.txt, a każdą z nich poprzedź numerem odpowiedniego zadania. 
+ 
+ 
+Zadanie 6.1. (0–2) 
+Podaj imię i nazwisko kierowcy, dla którego suma kwot za wszystkie mandaty była 
+największa, oraz podaj tę największą sumę. Jest tylko jeden taki kierowca. 
+ 
+ 
+Zadanie 6.2. (0–2) 
+Podaj liczby wykroczeń za cały rok za odpowiednio 0, 2, 4, 6, 8 i 10 punktów. 
+ 
+ 
+Zadanie 6.3. (0–2) 
+W którym miesiącu kierowcy otrzymali najmniej punktów karnych (łącznie) za wykroczenia 
+polegające na przekroczeniu dozwolonej prędkości o więcej niż 20 km/h (wykroczenia 
+o identyfikatorach od 3 do 6)? Podaj miesiąc oraz łączną liczbę punktów karnych z tego 
+miesiąca. 
+ 
+ 
+Zadanie 6.4. (0–3) 
+Wykonaj zestawienie numerów rejestracyjnych samochodów wraz z imionami i nazwiskami 
+ich właścicieli, którzy nie figurują w rejestrze wykroczeń. Zestawienie posortuj alfabetycznie 
+według numerów rejestracyjnych samochodów. 
+ 
+ 
+Zadanie 6.5. (0–2) 
+Załóżmy, że pierwsze trzy litery numeru rejestracyjnego oznaczają region zamieszkania 
+kierowcy. Podaj region, z którego kierowcy najczęściej byli karani za przekroczenie 
+prędkości powyżej 50 km/h (wykroczenie o identyfikatorze 6). 
+W odpowiedzi podaj oznaczenie regionu (pierwsze trzy litery tablicy rejestracyjnej) oraz 
+liczbę wykroczeń. Jeżeli jest więcej niż jeden region z taką samą największą liczbą 
+wykroczeń polegających na przekroczeniu prędkości powyżej 50 km/h, podaj je wszystkie. 
+ 
+Do oceny oddajesz: 
+• plik tekstowy wyniki6.txt, zawierający odpowiedzi do poszczególnych zadań. 
+Odpowiedź do każdego zadania powinna być poprzedzona jego numerem. 
+• plik(i) zawierający(-e) komputerową realizację Twoich obliczeń o nazwie(-ach) 
+(uwaga: brak tego(tych) pliku(-ów) jest równoznaczny z brakiem rozwiązania zadania): 
+ 
+................................................................................................................................................ 
+ 
+ 
+................................................................................................................................................ 
+ 
+ 
+ 
+ 
+Wypełnia 
+egzaminator 
+Nr zadania 
+6.1. 
+6.2. 
+6.3. 
+6.4. 
+6.5. 
+Maks. liczba pkt 
+2 
+2 
+2 
+3 
+2 
+Uzyskana liczba pkt 
+ 
+ 
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+Strona 10 z 10 
+EINP-R2_100 
+BRUDNOPIS (nie podlega ocenie) 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+ 
+ 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+ 
+INFORMATYKA 
+Poziom rozszerzony 
+Formuła 2015 
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
